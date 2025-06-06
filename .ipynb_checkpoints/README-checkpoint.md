@@ -4,7 +4,3 @@ Objetivo do projeto: migrar dados do varejo do ambiente do ambiente local para u
 
 Desafios: realizar todo o processo de importação de dados, limpeza e conversão dos dados do tipo CSV/XLSX para o formato SQL.
 
-Arquitetura Medalhão:
-- Bronze: importação e checagens iniciais dos dados;
-- Silver: limpeza, consolidação dos dados;
-- Gold: conversão para o formato SQL e exportação para o PostgreSQL.
