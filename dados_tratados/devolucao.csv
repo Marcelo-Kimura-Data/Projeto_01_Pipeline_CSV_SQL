@@ -1,0 +1,1810 @@
+data_devolução;id_loja;sku;qtd_devolvida;motivo_devolução
+2020-01-18;309;HL45;1;Produto com defeito
+2020-01-18;306;HL43;1;Produto com defeito
+2020-01-21;41;HL67;1;Produto com defeito
+2020-01-22;306;HL44;1;Não informado
+2020-02-02;309;HL45;1;Produto com defeito
+2020-02-15;2;HL45;1;Produto com defeito
+2020-02-19;308;HL44;1;Produto com defeito
+2020-02-24;199;HL47;1;Arrependimento
+2020-03-08;177;HL71;1;Produto com defeito
+2020-03-13;307;HL71;1;Produto com defeito
+2020-03-14;15;HL67;1;Produto com defeito
+2020-03-15;30;HL63;1;Produto com defeito
+2020-03-22;249;HL44;1;Produto com defeito
+2020-03-26;33;HL45;1;Produto com defeito
+2020-03-28;307;HL45;1;Arrependimento
+2020-03-28;171;HL47;1;Produto com defeito
+2020-03-29;89;HL44;1;Produto com defeito
+2020-04-01;132;HL44;1;Produto com defeito
+2020-04-07;28;HL44;1;Produto com defeito
+2020-04-07;91;HL72;1;Produto com defeito
+2020-04-09;307;HL44;1;Produto com defeito
+2020-04-10;261;HL56;1;Produto com defeito
+2020-04-15;306;HL45;1;Arrependimento
+2020-04-16;199;HL70;1;Não informado
+2020-04-20;306;HL43;1;Produto com defeito
+2020-04-21;12;HL45;1;Produto com defeito
+2020-04-25;191;HL55;1;Produto com defeito
+2020-04-27;299;HL47;1;Produto com defeito
+2020-04-29;199;HL43;1;Arrependimento
+2020-04-29;140;HL69;1;Produto com defeito
+2020-04-30;265;HL58;1;Produto com defeito
+2020-05-01;270;HL45;1;Produto com defeito
+2020-05-06;200;HL55;1;Produto com defeito
+2020-05-07;309;HL72;1;Produto com defeito
+2020-05-13;200;HL43;1;Produto com defeito
+2020-05-14;79;HL46;1;Produto com defeito
+2020-05-16;213;HL46;1;Produto com defeito
+2020-05-16;306;HL46;1;Arrependimento
+2020-05-22;104;HL47;1;Produto com defeito
+2020-05-24;193;HL54;1;Produto com defeito
+2020-05-30;294;HL46;1;Produto com defeito
+2020-05-30;291;HL47;1;Produto com defeito
+2020-06-05;310;HL46;1;Produto com defeito
+2020-06-07;170;HL64;1;Produto com defeito
+2020-06-20;307;HL68;1;Não informado
+2020-06-24;307;HL53;1;Arrependimento
+2020-07-03;199;HL87;1;Não informado
+2020-07-11;275;HL94;1;Produto com defeito
+2020-07-22;231;HL90;1;Produto com defeito
+2020-08-14;183;HL89;1;Produto com defeito
+2020-08-15;263;HL89;1;Produto com defeito
+2020-08-15;78;HL57;1;Produto com defeito
+2020-08-26;310;HL94;1;Produto com defeito
+2020-08-28;307;HL85;1;Produto com defeito
+2020-08-31;117;HL87;1;Produto com defeito
+2020-09-03;41;HL84;1;Produto com defeito
+2020-09-10;199;HL74;1;Arrependimento
+2020-10-03;289;HL73;1;Produto com defeito
+2020-10-07;282;HL73;1;Produto com defeito
+2020-10-08;92;HL74;1;Produto com defeito
+2020-10-12;310;HL90;1;Produto com defeito
+2020-10-13;48;HL73;2;Produto com defeito
+2020-10-23;309;HL74;1;Produto com defeito
+2020-10-25;200;HL60;1;Produto com defeito
+2020-10-27;306;HL83;1;Produto com defeito
+2020-10-28;306;HL87;1;Produto com defeito
+2020-10-30;219;HL85;1;Produto com defeito
+2020-11-16;217;HL90;1;Produto com defeito
+2020-11-20;199;HL77;1;Arrependimento
+2020-11-23;255;HL56;1;Produto com defeito
+2020-11-24;60;HL58;1;Produto com defeito
+2020-11-27;259;HL53;1;Produto com defeito
+2020-12-01;200;HL75;1;Produto com defeito
+2020-12-04;166;HL55;1;Produto com defeito
+2020-12-05;293;HL95;1;Produto com defeito
+2020-12-06;217;HL77;1;Produto com defeito
+2020-12-10;306;HL60;1;Produto com defeito
+2020-12-11;227;HL88;1;Produto com defeito
+2020-12-12;91;HL89;1;Produto com defeito
+2020-12-12;211;HL78;1;Produto com defeito
+2020-12-12;248;HL90;1;Produto com defeito
+2020-12-14;60;HL89;1;Produto com defeito
+2020-12-16;77;HL89;1;Produto com defeito
+2020-12-18;17;HL73;1;Produto com defeito
+2020-12-25;308;HL95;1;Produto com defeito
+2021-01-07;260;HL78;1;Produto com defeito
+2021-01-09;199;HL87;1;Produto com defeito
+2021-01-10;201;HL91;1;Produto com defeito
+2021-01-16;303;HL86;1;Produto com defeito
+2021-01-23;259;HL59;1;Produto com defeito
+2021-01-23;39;HL74;1;Produto com defeito
+2021-01-26;33;HL58;1;Produto com defeito
+2021-01-31;172;HL77;1;Produto com defeito
+2021-02-01;89;HL74;1;Produto com defeito
+2021-02-12;17;HL58;1;Produto com defeito
+2021-02-14;306;HL91;1;Produto com defeito
+2021-02-20;310;HL57;1;Produto com defeito
+2021-02-20;110;HL89;1;Produto com defeito
+2021-02-22;159;HL84;1;Produto com defeito
+2021-02-22;177;HL78;1;Produto com defeito
+2021-02-25;285;HL85;1;Produto com defeito
+2021-03-08;212;HL73;1;Produto com defeito
+2021-03-12;89;HL61;1;Produto com defeito
+2021-03-18;168;HL85;1;Produto com defeito
+2021-03-20;169;HL77;1;Produto com defeito
+2021-03-21;278;HL58;1;Produto com defeito
+2021-03-24;45;HL58;1;Produto com defeito
+2021-03-29;101;HL88;1;Produto com defeito
+2021-03-31;122;HL83;1;Produto com defeito
+2021-04-01;80;HL87;1;Produto com defeito
+2021-04-04;128;HL94;1;Produto com defeito
+2021-04-13;251;HL78;1;Produto com defeito
+2021-04-25;102;HL53;1;Produto com defeito
+2021-04-27;308;HL87;1;Produto com defeito
+2021-05-01;161;HL54;1;Produto com defeito
+2021-05-01;200;HL73;1;Produto com defeito
+2021-05-03;116;HL85;1;Produto com defeito
+2021-05-11;260;HL73;1;Produto com defeito
+2021-05-16;261;HL74;1;Produto com defeito
+2021-05-21;264;HL86;1;Produto com defeito
+2021-05-23;115;HL57;1;Produto com defeito
+2021-05-26;10;HL77;1;Produto com defeito
+2021-05-27;170;HL56;1;Produto com defeito
+2021-05-31;183;HL84;1;Produto com defeito
+2021-06-10;205;HL75;1;Produto com defeito
+2021-06-12;307;HL91;1;Produto com defeito
+2021-06-13;307;HL86;1;Não informado
+2021-06-15;308;HL59;1;Produto com defeito
+2021-06-19;200;HL57;1;Produto com defeito
+2021-06-21;111;HL83;1;Produto com defeito
+2021-06-25;67;HL84;1;Produto com defeito
+2021-06-27;152;HL78;1;Produto com defeito
+2021-07-02;256;HL88;1;Produto com defeito
+2021-07-03;156;HL74;1;Produto com defeito
+2021-07-03;310;HL164;1;Produto com defeito
+2021-07-03;251;HL166;1;Produto com defeito
+2021-07-04;200;HL75;1;Produto com defeito
+2021-07-06;226;HL215;1;Produto com defeito
+2021-07-07;307;HL76;1;Produto com defeito
+2021-07-08;215;HL91;1;Produto com defeito
+2021-07-08;306;HL165;1;Produto com defeito
+2021-07-08;186;HL167;1;Produto com defeito
+2021-07-08;307;HL174;1;Produto com defeito
+2021-07-08;199;HL167;1;Produto com defeito
+2021-07-09;83;HL2;1;Produto com defeito
+2021-07-11;199;HL164;1;Arrependimento
+2021-07-11;31;HL9;1;Produto com defeito
+2021-07-12;12;HL165;1;Produto com defeito
+2021-07-12;254;HL95;1;Produto com defeito
+2021-07-13;146;HL73;1;Produto com defeito
+2021-07-13;193;HL86;1;Produto com defeito
+2021-07-13;308;HL172;1;Produto com defeito
+2021-07-14;199;HL292;1;Arrependimento
+2021-07-15;125;HL227;1;Produto com defeito
+2021-07-15;211;HL165;1;Produto com defeito
+2021-07-15;86;HL170;1;Produto com defeito
+2021-07-15;148;HL227;1;Produto com defeito
+2021-07-15;308;HL171;1;Produto com defeito
+2021-07-16;141;HL6;1;Produto com defeito
+2021-07-19;5;HL224;1;Produto com defeito
+2021-07-22;308;HL164;1;Produto com defeito
+2021-07-23;199;HL89;1;Produto com defeito
+2021-07-23;299;HL5;1;Produto com defeito
+2021-07-24;32;HL164;1;Produto com defeito
+2021-07-25;310;HL224;1;Produto com defeito
+2021-07-26;199;HL174;1;Produto com defeito
+2021-07-26;284;HL215;1;Produto com defeito
+2021-07-28;154;HL89;1;Produto com defeito
+2021-07-28;3;HL172;1;Produto com defeito
+2021-07-29;306;HL152;1;Não informado
+2021-07-29;309;HL167;1;Produto com defeito
+2021-07-29;270;HL174;1;Produto com defeito
+2021-07-29;308;HL167;1;Produto com defeito
+2021-07-30;203;HL291;1;Produto com defeito
+2021-07-31;283;HL227;1;Produto com defeito
+2021-07-31;308;HL5;1;Produto com defeito
+2021-07-31;200;HL176;1;Produto com defeito
+2021-08-01;294;HL174;1;Produto com defeito
+2021-08-01;200;HL173;1;Produto com defeito
+2021-08-02;144;HL164;1;Produto com defeito
+2021-08-02;127;HL164;1;Produto com defeito
+2021-08-02;284;HL226;1;Produto com defeito
+2021-08-03;306;HL8;1;Não informado
+2021-08-03;307;HL224;1;Não informado
+2021-08-03;144;HL227;1;Produto com defeito
+2021-08-04;200;HL165;1;Produto com defeito
+2021-08-05;17;HL171;1;Produto com defeito
+2021-08-05;102;HL215;1;Produto com defeito
+2021-08-05;199;HL5;1;Produto com defeito
+2021-08-06;310;HL216;1;Produto com defeito
+2021-08-07;199;HL167;1;Produto com defeito
+2021-08-07;118;HL88;1;Produto com defeito
+2021-08-07;288;HL167;1;Produto com defeito
+2021-08-07;309;HL166;1;Produto com defeito
+2021-08-07;167;HL224;1;Produto com defeito
+2021-08-08;196;HL223;1;Produto com defeito
+2021-08-08;290;HL86;1;Produto com defeito
+2021-08-09;194;HL87;1;Produto com defeito
+2021-08-09;50;HL222;1;Produto com defeito
+2021-08-09;306;HL227;1;Arrependimento
+2021-08-10;28;HL164;1;Produto com defeito
+2021-08-10;282;HL5;1;Produto com defeito
+2021-08-11;180;HL93;1;Produto com defeito
+2021-08-11;252;HL164;1;Produto com defeito
+2021-08-11;309;HL215;1;Produto com defeito
+2021-08-12;308;HL215;1;Produto com defeito
+2021-08-12;57;HL216;1;Produto com defeito
+2021-08-12;308;HL222;1;Produto com defeito
+2021-08-12;93;HL167;1;Produto com defeito
+2021-08-12;257;HL164;1;Produto com defeito
+2021-08-12;70;HL153;1;Produto com defeito
+2021-08-12;306;HL252;1;Arrependimento
+2021-08-13;264;HL94;1;Produto com defeito
+2021-08-13;196;HL165;1;Produto com defeito
+2021-08-13;199;HL174;1;Produto com defeito
+2021-08-13;308;HL216;1;Produto com defeito
+2021-08-13;309;HL277;1;Produto com defeito
+2021-08-14;177;HL10;1;Produto com defeito
+2021-08-14;108;HL225;1;Produto com defeito
+2021-08-14;191;HL1;1;Produto com defeito
+2021-08-14;307;HL7;1;Produto com defeito
+2021-08-14;200;HL217;1;Produto com defeito
+2021-08-14;309;HL2;1;Produto com defeito
+2021-08-15;200;HL215;1;Produto com defeito
+2021-08-15;154;HL216;1;Produto com defeito
+2021-08-15;296;HL223;1;Produto com defeito
+2021-08-15;170;HL8;1;Troca Indisponível
+2021-08-15;307;HL165;1;Arrependimento
+2021-08-15;45;HL225;1;Produto com defeito
+2021-08-15;100;HL7;1;Produto com defeito
+2021-08-16;73;HL75;1;Produto com defeito
+2021-08-16;199;HL172;1;Não informado
+2021-08-16;199;HL165;1;Produto com defeito
+2021-08-17;310;HL5;1;Produto com defeito
+2021-08-17;243;HL226;1;Produto com defeito
+2021-08-17;205;HL216;1;Produto com defeito
+2021-08-18;200;HL77;1;Produto com defeito
+2021-08-18;306;HL164;1;Produto com defeito
+2021-08-18;307;HL165;1;Arrependimento
+2021-08-19;270;HL164;2;Produto com defeito
+2021-08-19;224;HL227;1;Produto com defeito
+2021-08-19;199;HL6;1;Produto com defeito
+2021-08-20;162;HL216;1;Produto com defeito
+2021-08-20;110;HL5;1;Produto com defeito
+2021-08-20;109;HL8;1;Troca Indisponível
+2021-08-20;91;HL216;1;Produto com defeito
+2021-08-20;267;HL217;1;Produto com defeito
+2021-08-21;120;HL1;1;Produto com defeito
+2021-08-21;306;HL1;1;Produto com defeito
+2021-08-22;200;HL5;1;Produto com defeito
+2021-08-23;200;HL164;1;Produto com defeito
+2021-08-23;237;HL78;1;Produto com defeito
+2021-08-24;143;HL173;1;Produto com defeito
+2021-08-24;200;HL222;1;Produto com defeito
+2021-08-24;309;HL165;1;Produto com defeito
+2021-08-24;164;HL167;1;Produto com defeito
+2021-08-24;308;HL173;1;Produto com defeito
+2021-08-24;218;HL215;1;Produto com defeito
+2021-08-24;165;HL165;1;Produto com defeito
+2021-08-24;162;HL1;1;Produto com defeito
+2021-08-24;10;HL167;1;Produto com defeito
+2021-08-24;310;HL167;1;Produto com defeito
+2021-08-25;309;HL2;1;Produto com defeito
+2021-08-25;215;HL9;1;Troca Indisponível
+2021-08-25;306;HL252;1;Produto com defeito
+2021-08-25;199;HL174;1;Não informado
+2021-08-25;27;HL216;1;Produto com defeito
+2021-08-25;9;HL227;1;Produto com defeito
+2021-08-26;117;HL163;1;Produto com defeito
+2021-08-26;257;HL78;1;Produto com defeito
+2021-08-26;1;HL7;1;Troca Indisponível
+2021-08-26;89;HL154;1;Produto com defeito
+2021-08-27;281;HL164;1;Produto com defeito
+2021-08-27;308;HL164;1;Produto com defeito
+2021-08-28;310;HL227;1;Produto com defeito
+2021-08-28;105;HL262;1;Produto com defeito
+2021-08-28;247;HL6;1;Produto com defeito
+2021-08-28;132;HL164;1;Produto com defeito
+2021-08-29;146;HL164;1;Produto com defeito
+2021-08-29;307;HL176;1;Produto com defeito
+2021-08-29;272;HL164;1;Produto com defeito
+2021-08-29;307;HL216;1;Arrependimento
+2021-08-30;199;HL164;1;Produto com defeito
+2021-08-30;174;HL167;2;Produto com defeito
+2021-08-30;281;HL153;1;Troca Indisponível
+2021-08-30;307;HL169;1;Produto com defeito
+2021-08-30;252;HL215;1;Produto com defeito
+2021-08-30;200;HL226;1;Produto com defeito
+2021-08-30;309;HL166;1;Produto com defeito
+2021-08-30;307;HL216;1;Não informado
+2021-08-30;200;HL217;1;Produto com defeito
+2021-08-31;275;HL167;1;Produto com defeito
+2021-08-31;308;HL255;1;Produto com defeito
+2021-08-31;230;HL217;1;Produto com defeito
+2021-08-31;192;HL167;1;Produto com defeito
+2021-09-01;306;HL5;1;Arrependimento
+2021-09-01;144;HL222;1;Produto com defeito
+2021-09-02;159;HL165;1;Produto com defeito
+2021-09-02;200;HL93;1;Produto com defeito
+2021-09-03;148;HL164;1;Produto com defeito
+2021-09-03;306;HL225;1;Arrependimento
+2021-09-03;200;HL154;1;Produto com defeito
+2021-09-03;300;HL261;1;Produto com defeito
+2021-09-03;199;HL78;1;Arrependimento
+2021-09-03;124;HL167;1;Produto com defeito
+2021-09-03;104;HL215;1;Produto com defeito
+2021-09-03;33;HL248;1;Produto com defeito
+2021-09-04;257;HL164;1;Produto com defeito
+2021-09-04;79;HL228;1;Produto com defeito
+2021-09-04;310;HL215;1;Produto com defeito
+2021-09-04;307;HL171;1;Produto com defeito
+2021-09-05;252;HL164;1;Produto com defeito
+2021-09-05;236;HL78;1;Produto com defeito
+2021-09-05;282;HL224;1;Produto com defeito
+2021-09-05;202;HL5;1;Produto com defeito
+2021-09-05;168;HL164;1;Produto com defeito
+2021-09-05;76;HL172;1;Produto com defeito
+2021-09-06;309;HL1;1;Produto com defeito
+2021-09-06;114;HL164;1;Produto com defeito
+2021-09-06;281;HL165;1;Produto com defeito
+2021-09-06;199;HL249;1;Produto com defeito
+2021-09-06;309;HL167;1;Produto com defeito
+2021-09-06;308;HL6;1;Produto com defeito
+2021-09-07;66;HL5;1;Produto com defeito
+2021-09-07;252;HL76;1;Produto com defeito
+2021-09-08;200;HL162;1;Produto com defeito
+2021-09-08;30;HL77;1;Produto com defeito
+2021-09-08;199;HL225;1;Produto com defeito
+2021-09-09;105;HL164;1;Produto com defeito
+2021-09-09;112;HL164;1;Produto com defeito
+2021-09-09;308;HL165;1;Produto com defeito
+2021-09-09;38;HL167;1;Produto com defeito
+2021-09-10;178;HL93;1;Produto com defeito
+2021-09-10;160;HL215;1;Produto com defeito
+2021-09-10;306;HL176;1;Produto com defeito
+2021-09-10;310;HL216;1;Produto com defeito
+2021-09-11;43;HL225;1;Produto com defeito
+2021-09-11;297;HL167;1;Produto com defeito
+2021-09-11;150;HL95;1;Produto com defeito
+2021-09-12;69;HL1;1;Produto com defeito
+2021-09-12;310;HL223;1;Produto com defeito
+2021-09-13;11;HL76;1;Produto com defeito
+2021-09-13;127;HL161;1;Troca Indisponível
+2021-09-13;25;HL164;1;Produto com defeito
+2021-09-13;194;HL164;1;Produto com defeito
+2021-09-13;200;HL165;1;Produto com defeito
+2021-09-13;307;HL6;1;Arrependimento
+2021-09-14;149;HL224;1;Produto com defeito
+2021-09-14;150;HL263;1;Produto com defeito
+2021-09-15;309;HL94;1;Produto com defeito
+2021-09-15;49;HL2;1;Produto com defeito
+2021-09-15;226;HL166;1;Produto com defeito
+2021-09-15;146;HL216;1;Produto com defeito
+2021-09-15;307;HL216;1;Produto com defeito
+2021-09-15;182;HL217;1;Produto com defeito
+2021-09-16;16;HL165;1;Produto com defeito
+2021-09-16;164;HL224;1;Produto com defeito
+2021-09-16;78;HL164;1;Produto com defeito
+2021-09-16;306;HL165;2;Produto com defeito
+2021-09-16;256;HL216;1;Produto com defeito
+2021-09-17;132;HL153;1;Produto com defeito
+2021-09-17;192;HL153;1;Produto com defeito
+2021-09-17;269;HL1;1;Produto com defeito
+2021-09-18;167;HL227;1;Produto com defeito
+2021-09-18;309;HL87;1;Produto com defeito
+2021-09-18;293;HL216;1;Produto com defeito
+2021-09-19;309;HL5;1;Produto com defeito
+2021-09-19;35;HL95;1;Produto com defeito
+2021-09-19;307;HL215;1;Produto com defeito
+2021-09-19;87;HL225;1;Produto com defeito
+2021-09-19;200;HL268;1;Produto com defeito
+2021-09-20;15;HL94;1;Produto com defeito
+2021-09-20;199;HL166;1;Arrependimento
+2021-09-20;182;HL164;1;Produto com defeito
+2021-09-20;299;HL225;1;Produto com defeito
+2021-09-21;175;HL225;1;Produto com defeito
+2021-09-21;260;HL164;1;Produto com defeito
+2021-09-21;276;HL167;1;Produto com defeito
+2021-09-21;306;HL216;1;Produto com defeito
+2021-09-22;310;HL222;1;Produto com defeito
+2021-09-23;35;HL164;1;Produto com defeito
+2021-09-23;100;HL153;1;Produto com defeito
+2021-09-23;277;HL178;1;Produto com defeito
+2021-09-23;27;HL228;1;Produto com defeito
+2021-09-23;199;HL248;1;Arrependimento
+2021-09-24;136;HL9;1;Troca Indisponível
+2021-09-24;310;HL222;1;Produto com defeito
+2021-09-24;76;HL161;1;Produto com defeito
+2021-09-24;251;HL2;1;Produto com defeito
+2021-09-25;130;HL226;1;Produto com defeito
+2021-09-25;265;HL215;1;Produto com defeito
+2021-09-26;309;HL170;1;Produto com defeito
+2021-09-26;210;HL225;1;Produto com defeito
+2021-09-26;307;HL280;1;Produto com defeito
+2021-09-26;130;HL164;1;Produto com defeito
+2021-09-26;198;HL172;1;Produto com defeito
+2021-09-26;310;HL2;1;Produto com defeito
+2021-09-26;200;HL216;1;Produto com defeito
+2021-09-26;186;HL223;1;Produto com defeito
+2021-09-26;200;HL269;1;Produto com defeito
+2021-09-26;308;HL175;1;Produto com defeito
+2021-09-27;33;HL215;1;Produto com defeito
+2021-09-27;267;HL9;1;Produto com defeito
+2021-09-28;272;HL164;1;Produto com defeito
+2021-09-28;270;HL215;1;Produto com defeito
+2021-09-28;159;HL8;1;Produto com defeito
+2021-09-28;269;HL6;1;Produto com defeito
+2021-09-29;24;HL215;1;Produto com defeito
+2021-09-29;137;HL227;1;Produto com defeito
+2021-09-30;200;HL158;1;Produto com defeito
+2021-09-30;307;HL292;1;Produto com defeito
+2021-09-30;95;HL215;2;Produto com defeito
+2021-09-30;267;HL225;1;Produto com defeito
+2021-09-30;16;HL292;1;Produto com defeito
+2021-09-30;99;HL215;1;Produto com defeito
+2021-10-01;306;HL165;1;Produto com defeito
+2021-10-01;139;HL9;1;Produto com defeito
+2021-10-01;300;HL76;1;Produto com defeito
+2021-10-01;64;HL164;1;Produto com defeito
+2021-10-01;306;HL215;1;Produto com defeito
+2021-10-02;264;HL167;1;Produto com defeito
+2021-10-02;303;HL222;1;Produto com defeito
+2021-10-02;306;HL1;1;Produto com defeito
+2021-10-02;277;HL216;1;Produto com defeito
+2021-10-02;3;HL2;1;Produto com defeito
+2021-10-02;296;HL216;1;Produto com defeito
+2021-10-03;192;HL73;1;Produto com defeito
+2021-10-04;88;HL166;1;Produto com defeito
+2021-10-04;281;HL174;1;Produto com defeito
+2021-10-04;302;HL167;1;Produto com defeito
+2021-10-04;32;HL1;1;Produto com defeito
+2021-10-05;308;HL172;1;Produto com defeito
+2021-10-05;299;HL167;1;Produto com defeito
+2021-10-05;76;HL154;1;Produto com defeito
+2021-10-06;88;HL172;1;Produto com defeito
+2021-10-06;263;HL6;1;Produto com defeito
+2021-10-06;306;HL77;1;Produto com defeito
+2021-10-06;275;HL164;1;Produto com defeito
+2021-10-06;240;HL165;1;Produto com defeito
+2021-10-06;288;HL175;1;Produto com defeito
+2021-10-07;225;HL225;1;Produto com defeito
+2021-10-07;31;HL10;1;Troca Indisponível
+2021-10-08;281;HL223;1;Produto com defeito
+2021-10-08;200;HL164;1;Produto com defeito
+2021-10-08;169;HL167;1;Produto com defeito
+2021-10-08;200;HL227;1;Produto com defeito
+2021-10-09;232;HL6;1;Produto com defeito
+2021-10-09;309;HL165;1;Produto com defeito
+2021-10-09;287;HL6;1;Produto com defeito
+2021-10-09;173;HL8;1;Produto com defeito
+2021-10-09;169;HL217;1;Produto com defeito
+2021-10-09;193;HL10;1;Troca Indisponível
+2021-10-09;265;HL164;1;Produto com defeito
+2021-10-09;310;HL153;1;Troca Indisponível
+2021-10-09;299;HL167;1;Produto com defeito
+2021-10-09;53;HL216;1;Produto com defeito
+2021-10-10;211;HL9;1;Troca Indisponível
+2021-10-10;306;HL153;1;Produto com defeito
+2021-10-10;200;HL224;1;Produto com defeito
+2021-10-10;306;HL165;1;Produto com defeito
+2021-10-10;197;HL216;1;Produto com defeito
+2021-10-10;3;HL222;1;Produto com defeito
+2021-10-10;270;HL166;1;Produto com defeito
+2021-10-10;310;HL222;1;Produto com defeito
+2021-10-11;2;HL267;1;Produto com defeito
+2021-10-11;300;HL215;1;Produto com defeito
+2021-10-11;200;HL287;1;Produto com defeito
+2021-10-11;307;HL217;1;Produto com defeito
+2021-10-12;128;HL163;1;Troca Indisponível
+2021-10-12;200;HL224;1;Produto com defeito
+2021-10-12;310;HL226;1;Produto com defeito
+2021-10-12;306;HL77;1;Produto com defeito
+2021-10-12;124;HL1;1;Produto com defeito
+2021-10-12;93;HL2;1;Produto com defeito
+2021-10-13;310;HL6;1;Troca Indisponível
+2021-10-13;192;HL92;1;Produto com defeito
+2021-10-13;92;HL227;1;Produto com defeito
+2021-10-14;108;HL268;1;Produto com defeito
+2021-10-14;232;HL2;1;Produto com defeito
+2021-10-14;307;HL164;1;Arrependimento
+2021-10-15;199;HL291;1;Produto com defeito
+2021-10-15;199;HL73;1;Arrependimento
+2021-10-16;294;HL166;1;Produto com defeito
+2021-10-16;309;HL172;1;Produto com defeito
+2021-10-16;308;HL176;1;Troca Indisponível
+2021-10-16;309;HL91;1;Produto com defeito
+2021-10-17;309;HL167;1;Produto com defeito
+2021-10-17;128;HL217;1;Produto com defeito
+2021-10-17;145;HL172;1;Produto com defeito
+2021-10-17;269;HL225;1;Produto com defeito
+2021-10-18;307;HL169;1;Produto com defeito
+2021-10-19;136;HL276;1;Produto com defeito
+2021-10-19;131;HL5;1;Produto com defeito
+2021-10-19;308;HL74;1;Produto com defeito
+2021-10-20;302;HL154;1;Produto com defeito
+2021-10-20;179;HL167;1;Produto com defeito
+2021-10-20;308;HL222;1;Produto com defeito
+2021-10-20;98;HL153;1;Troca Indisponível
+2021-10-20;70;HL165;1;Produto com defeito
+2021-10-21;46;HL6;1;Troca Indisponível
+2021-10-21;219;HL169;1;Produto com defeito
+2021-10-21;177;HL2;1;Produto com defeito
+2021-10-21;199;HL224;1;Produto com defeito
+2021-10-21;80;HL226;1;Produto com defeito
+2021-10-22;260;HL292;1;Produto com defeito
+2021-10-22;190;HL217;1;Produto com defeito
+2021-10-22;8;HL292;1;Produto com defeito
+2021-10-22;210;HL166;1;Produto com defeito
+2021-10-22;32;HL224;1;Produto com defeito
+2021-10-23;227;HL6;1;Produto com defeito
+2021-10-23;309;HL77;1;Produto com defeito
+2021-10-23;199;HL172;1;Produto com defeito
+2021-10-24;306;HL1;1;Arrependimento
+2021-10-24;85;HL154;1;Produto com defeito
+2021-10-24;84;HL228;1;Produto com defeito
+2021-10-25;243;HL227;1;Produto com defeito
+2021-10-25;310;HL293;1;Produto com defeito
+2021-10-25;307;HL164;1;Arrependimento
+2021-10-25;269;HL168;1;Troca Indisponível
+2021-10-25;15;HL172;1;Produto com defeito
+2021-10-26;309;HL95;1;Produto com defeito
+2021-10-26;309;HL215;1;Produto com defeito
+2021-10-26;300;HL216;1;Produto com defeito
+2021-10-26;244;HL217;1;Produto com defeito
+2021-10-26;127;HL175;1;Troca Indisponível
+2021-10-26;140;HL165;1;Produto com defeito
+2021-10-26;8;HL228;1;Produto com defeito
+2021-10-27;63;HL5;1;Produto com defeito
+2021-10-27;307;HL176;1;Arrependimento
+2021-10-28;142;HL6;1;Produto com defeito
+2021-10-28;165;HL167;1;Produto com defeito
+2021-10-28;10;HL171;1;Produto com defeito
+2021-10-28;264;HL264;1;Produto com defeito
+2021-10-28;200;HL5;1;Produto com defeito
+2021-10-28;200;HL164;1;Produto com defeito
+2021-10-28;292;HL158;1;Produto com defeito
+2021-10-29;38;HL268;1;Produto com defeito
+2021-10-29;275;HL228;1;Produto com defeito
+2021-10-29;293;HL10;1;Produto com defeito
+2021-10-29;306;HL225;1;Produto com defeito
+2021-10-29;308;HL164;1;Produto com defeito
+2021-10-30;214;HL224;1;Produto com defeito
+2021-10-30;310;HL162;1;Produto com defeito
+2021-10-30;172;HL76;1;Produto com defeito
+2021-10-30;285;HL86;1;Produto com defeito
+2021-10-31;174;HL283;1;Produto com defeito
+2021-10-31;93;HL2;1;Produto com defeito
+2021-10-31;306;HL217;1;Arrependimento
+2021-10-31;136;HL76;1;Produto com defeito
+2021-10-31;157;HL215;1;Produto com defeito
+2021-10-31;139;HL271;1;Produto com defeito
+2021-10-31;307;HL291;1;Produto com defeito
+2021-11-01;176;HL164;1;Produto com defeito
+2021-11-01;81;HL165;1;Produto com defeito
+2021-11-01;300;HL215;1;Produto com defeito
+2021-11-01;13;HL216;1;Produto com defeito
+2021-11-02;94;HL2;1;Produto com defeito
+2021-11-02;253;HL77;1;Produto com defeito
+2021-11-02;306;HL164;1;Produto com defeito
+2021-11-02;178;HL1;1;Produto com defeito
+2021-11-02;308;HL93;1;Produto com defeito
+2021-11-03;107;HL161;1;Produto com defeito
+2021-11-03;307;HL228;1;Produto com defeito
+2021-11-03;139;HL88;1;Produto com defeito
+2021-11-03;82;HL176;1;Produto com defeito
+2021-11-04;310;HL154;1;Produto com defeito
+2021-11-04;272;HL215;1;Produto com defeito
+2021-11-05;82;HL165;1;Produto com defeito
+2021-11-05;47;HL167;1;Produto com defeito
+2021-11-05;292;HL216;1;Produto com defeito
+2021-11-06;85;HL172;1;Produto com defeito
+2021-11-06;141;HL164;2;Produto com defeito
+2021-11-07;17;HL74;1;Produto com defeito
+2021-11-07;98;HL164;2;Produto com defeito
+2021-11-07;295;HL165;1;Produto com defeito
+2021-11-07;156;HL227;1;Produto com defeito
+2021-11-07;29;HL164;1;Produto com defeito
+2021-11-07;204;HL164;1;Produto com defeito
+2021-11-07;200;HL222;1;Produto com defeito
+2021-11-07;84;HL224;1;Produto com defeito
+2021-11-07;199;HL291;1;Produto com defeito
+2021-11-08;102;HL165;1;Produto com defeito
+2021-11-08;168;HL159;1;Produto com defeito
+2021-11-08;60;HL223;1;Produto com defeito
+2021-11-09;1;HL165;1;Produto com defeito
+2021-11-09;114;HL5;1;Produto com defeito
+2021-11-09;239;HL164;1;Produto com defeito
+2021-11-09;166;HL164;1;Produto com defeito
+2021-11-10;306;HL78;1;Produto com defeito
+2021-11-10;144;HL217;1;Produto com defeito
+2021-11-10;310;HL215;1;Produto com defeito
+2021-11-10;130;HL166;1;Produto com defeito
+2021-11-10;286;HL172;1;Produto com defeito
+2021-11-11;213;HL5;1;Produto com defeito
+2021-11-12;307;HL167;1;Produto com defeito
+2021-11-12;306;HL293;1;Não informado
+2021-11-12;175;HL164;1;Produto com defeito
+2021-11-12;282;HL222;1;Produto com defeito
+2021-11-12;16;HL228;1;Produto com defeito
+2021-11-13;260;HL166;1;Produto com defeito
+2021-11-13;173;HL249;1;Produto com defeito
+2021-11-13;94;HL88;1;Produto com defeito
+2021-11-14;199;HL154;1;Produto com defeito
+2021-11-14;231;HL276;1;Produto com defeito
+2021-11-14;310;HL165;1;Produto com defeito
+2021-11-14;136;HL2;1;Produto com defeito
+2021-11-14;9;HL225;1;Produto com defeito
+2021-11-14;4;HL224;1;Produto com defeito
+2021-11-14;309;HL279;1;Produto com defeito
+2021-11-14;123;HL2;1;Produto com defeito
+2021-11-14;200;HL164;1;Produto com defeito
+2021-11-15;309;HL167;1;Produto com defeito
+2021-11-15;94;HL165;1;Produto com defeito
+2021-11-15;94;HL247;1;Produto com defeito
+2021-11-16;307;HL215;1;Arrependimento
+2021-11-16;308;HL225;1;Produto com defeito
+2021-11-17;308;HL167;1;Produto com defeito
+2021-11-17;95;HL292;1;Produto com defeito
+2021-11-17;265;HL271;1;Produto com defeito
+2021-11-17;201;HL174;1;Produto com defeito
+2021-11-17;89;HL93;1;Produto com defeito
+2021-11-18;204;HL166;1;Produto com defeito
+2021-11-18;308;HL167;1;Produto com defeito
+2021-11-18;208;HL5;1;Produto com defeito
+2021-11-18;5;HL174;1;Produto com defeito
+2021-11-18;178;HL228;1;Produto com defeito
+2021-11-18;85;HL5;1;Produto com defeito
+2021-11-18;309;HL216;1;Produto com defeito
+2021-11-18;306;HL270;1;Não informado
+2021-11-18;309;HL271;1;Produto com defeito
+2021-11-19;310;HL5;1;Produto com defeito
+2021-11-19;48;HL89;1;Produto com defeito
+2021-11-19;292;HL173;1;Produto com defeito
+2021-11-19;200;HL228;1;Produto com defeito
+2021-11-19;199;HL271;1;Produto com defeito
+2021-11-19;190;HL1;1;Produto com defeito
+2021-11-19;200;HL1;1;Produto com defeito
+2021-11-19;307;HL269;1;Arrependimento
+2021-11-20;237;HL168;1;Produto com defeito
+2021-11-20;134;HL152;1;Troca Indisponível
+2021-11-20;98;HL225;1;Produto com defeito
+2021-11-20;307;HL216;1;Produto com defeito
+2021-11-20;116;HL174;1;Produto com defeito
+2021-11-21;309;HL5;1;Produto com defeito
+2021-11-21;199;HL7;1;Arrependimento
+2021-11-21;131;HL78;1;Produto com defeito
+2021-11-21;103;HL153;1;Produto com defeito
+2021-11-22;249;HL75;1;Produto com defeito
+2021-11-22;182;HL172;1;Produto com defeito
+2021-11-22;309;HL5;1;Produto com defeito
+2021-11-22;178;HL176;1;Produto com defeito
+2021-11-22;167;HL1;1;Produto com defeito
+2021-11-23;303;HL165;1;Produto com defeito
+2021-11-23;307;HL166;1;Produto com defeito
+2021-11-23;200;HL2;1;Produto com defeito
+2021-11-23;310;HL163;1;Produto com defeito
+2021-11-23;199;HL1;1;Não informado
+2021-11-24;200;HL5;1;Produto com defeito
+2021-11-24;91;HL215;1;Produto com defeito
+2021-11-24;297;HL223;1;Produto com defeito
+2021-11-24;200;HL76;1;Produto com defeito
+2021-11-24;200;HL165;1;Produto com defeito
+2021-11-25;211;HL172;1;Produto com defeito
+2021-11-25;134;HL171;1;Produto com defeito
+2021-11-25;308;HL215;1;Produto com defeito
+2021-11-26;307;HL216;1;Produto com defeito
+2021-11-26;307;HL166;1;Produto com defeito
+2021-11-26;116;HL171;1;Produto com defeito
+2021-11-27;224;HL215;1;Produto com defeito
+2021-11-27;290;HL152;1;Produto com defeito
+2021-11-28;207;HL167;1;Produto com defeito
+2021-11-28;308;HL170;1;Produto com defeito
+2021-11-28;112;HL217;1;Produto com defeito
+2021-11-28;310;HL164;1;Produto com defeito
+2021-11-28;309;HL2;1;Produto com defeito
+2021-11-28;199;HL276;1;Não informado
+2021-11-28;25;HL164;1;Produto com defeito
+2021-11-28;207;HL165;1;Produto com defeito
+2021-11-29;235;HL222;1;Produto com defeito
+2021-11-29;219;HL164;1;Produto com defeito
+2021-11-29;259;HL166;1;Produto com defeito
+2021-11-30;310;HL163;1;Produto com defeito
+2021-11-30;294;HL1;1;Produto com defeito
+2021-11-30;307;HL222;1;Não informado
+2021-11-30;233;HL163;1;Troca Indisponível
+2021-11-30;306;HL293;1;Produto com defeito
+2021-12-01;145;HL2;1;Produto com defeito
+2021-12-01;308;HL222;1;Produto com defeito
+2021-12-01;217;HL5;1;Produto com defeito
+2021-12-01;306;HL273;1;Arrependimento
+2021-12-01;308;HL6;1;Troca Indisponível
+2021-12-01;307;HL164;1;Não informado
+2021-12-01;58;HL1;1;Produto com defeito
+2021-12-01;114;HL227;1;Produto com defeito
+2021-12-02;66;HL161;1;Produto com defeito
+2021-12-03;18;HL215;1;Produto com defeito
+2021-12-03;84;HL222;1;Produto com defeito
+2021-12-03;200;HL153;1;Produto com defeito
+2021-12-03;306;HL215;1;Arrependimento
+2021-12-03;307;HL175;1;Produto com defeito
+2021-12-03;103;HL5;1;Produto com defeito
+2021-12-04;41;HL165;1;Produto com defeito
+2021-12-04;155;HL226;1;Produto com defeito
+2021-12-04;200;HL164;1;Produto com defeito
+2021-12-04;200;HL216;1;Produto com defeito
+2021-12-05;308;HL1;1;Produto com defeito
+2021-12-05;200;HL215;1;Produto com defeito
+2021-12-05;199;HL165;1;Não informado
+2021-12-05;215;HL93;1;Produto com defeito
+2021-12-05;259;HL164;1;Produto com defeito
+2021-12-05;177;HL1;1;Produto com defeito
+2021-12-05;92;HL2;1;Produto com defeito
+2021-12-06;199;HL215;1;Produto com defeito
+2021-12-06;310;HL2;1;Produto com defeito
+2021-12-06;76;HL172;1;Produto com defeito
+2021-12-06;307;HL250;1;Produto com defeito
+2021-12-07;306;HL154;1;Arrependimento
+2021-12-07;84;HL215;1;Produto com defeito
+2021-12-07;240;HL227;1;Produto com defeito
+2021-12-07;58;HL161;1;Troca Indisponível
+2021-12-07;152;HL5;1;Produto com defeito
+2021-12-07;40;HL282;1;Produto com defeito
+2021-12-07;199;HL251;1;Produto com defeito
+2021-12-07;179;HL285;1;Produto com defeito
+2021-12-08;212;HL1;1;Produto com defeito
+2021-12-08;58;HL177;1;Produto com defeito
+2021-12-08;306;HL264;1;Não informado
+2021-12-08;150;HL152;1;Produto com defeito
+2021-12-09;199;HL6;1;Produto com defeito
+2021-12-09;264;HL167;1;Produto com defeito
+2021-12-09;243;HL217;1;Produto com defeito
+2021-12-09;247;HL224;1;Produto com defeito
+2021-12-09;306;HL158;1;Arrependimento
+2021-12-09;200;HL162;1;Produto com defeito
+2021-12-09;249;HL166;1;Produto com defeito
+2021-12-09;72;HL166;1;Produto com defeito
+2021-12-09;306;HL217;1;Produto com defeito
+2021-12-10;200;HL224;1;Produto com defeito
+2021-12-10;79;HL165;1;Produto com defeito
+2021-12-11;297;HL86;1;Produto com defeito
+2021-12-11;78;HL163;1;Produto com defeito
+2021-12-11;234;HL164;1;Produto com defeito
+2021-12-12;152;HL5;1;Produto com defeito
+2021-12-12;44;HL1;1;Produto com defeito
+2021-12-12;199;HL1;1;Produto com defeito
+2021-12-12;200;HL217;1;Produto com defeito
+2021-12-12;199;HL223;1;Produto com defeito
+2021-12-12;199;HL165;1;Arrependimento
+2021-12-12;78;HL172;1;Produto com defeito
+2021-12-13;137;HL167;1;Produto com defeito
+2021-12-13;200;HL172;1;Produto com defeito
+2021-12-13;209;HL222;1;Produto com defeito
+2021-12-13;306;HL216;1;Arrependimento
+2021-12-13;199;HL6;1;Arrependimento
+2021-12-13;307;HL173;1;Produto com defeito
+2021-12-13;25;HL217;1;Produto com defeito
+2021-12-14;307;HL227;1;Arrependimento
+2021-12-14;307;HL166;1;Produto com defeito
+2021-12-14;307;HL5;1;Produto com defeito
+2021-12-15;309;HL78;1;Produto com defeito
+2021-12-15;87;HL165;1;Produto com defeito
+2021-12-15;119;HL264;1;Produto com defeito
+2021-12-15;310;HL176;1;Troca Indisponível
+2021-12-15;199;HL215;1;Produto com defeito
+2021-12-15;84;HL225;1;Produto com defeito
+2021-12-15;117;HL222;1;Produto com defeito
+2021-12-15;295;HL259;1;Produto com defeito
+2021-12-15;199;HL167;1;Arrependimento
+2021-12-16;43;HL167;1;Produto com defeito
+2021-12-16;82;HL217;1;Produto com defeito
+2021-12-16;308;HL93;1;Produto com defeito
+2021-12-16;299;HL171;1;Produto com defeito
+2021-12-17;118;HL161;1;Produto com defeito
+2021-12-17;307;HL226;1;Não informado
+2021-12-17;244;HL5;1;Produto com defeito
+2021-12-17;215;HL270;1;Produto com defeito
+2021-12-17;156;HL215;1;Produto com defeito
+2021-12-17;268;HL224;1;Produto com defeito
+2021-12-17;4;HL164;1;Produto com defeito
+2021-12-18;246;HL76;1;Produto com defeito
+2021-12-18;200;HL164;1;Produto com defeito
+2021-12-19;40;HL5;1;Produto com defeito
+2021-12-19;108;HL263;1;Produto com defeito
+2021-12-19;67;HL75;1;Produto com defeito
+2021-12-20;272;HL216;1;Produto com defeito
+2021-12-20;127;HL165;1;Produto com defeito
+2021-12-20;88;HL6;1;Produto com defeito
+2021-12-20;306;HL222;1;Arrependimento
+2021-12-20;199;HL262;1;Arrependimento
+2021-12-21;29;HL164;1;Produto com defeito
+2021-12-21;306;HL77;1;Arrependimento
+2021-12-21;33;HL164;1;Produto com defeito
+2021-12-21;74;HL167;1;Produto com defeito
+2021-12-22;131;HL93;1;Produto com defeito
+2021-12-23;15;HL2;1;Produto com defeito
+2021-12-23;310;HL164;1;Produto com defeito
+2021-12-23;293;HL175;1;Troca Indisponível
+2021-12-23;35;HL2;1;Produto com defeito
+2021-12-23;307;HL171;1;Arrependimento
+2021-12-24;188;HL167;1;Produto com defeito
+2021-12-24;200;HL224;1;Produto com defeito
+2021-12-24;291;HL226;1;Produto com defeito
+2021-12-24;160;HL168;1;Produto com defeito
+2021-12-24;306;HL152;1;Produto com defeito
+2021-12-24;22;HL164;1;Produto com defeito
+2021-12-24;200;HL216;1;Produto com defeito
+2021-12-24;307;HL217;1;Produto com defeito
+2021-12-25;306;HL1;1;Produto com defeito
+2021-12-25;102;HL5;1;Produto com defeito
+2021-12-25;78;HL163;1;Produto com defeito
+2021-12-25;183;HL275;1;Produto com defeito
+2021-12-25;37;HL2;1;Produto com defeito
+2021-12-25;24;HL6;1;Produto com defeito
+2021-12-25;263;HL8;1;Produto com defeito
+2021-12-25;188;HL217;1;Produto com defeito
+2021-12-25;190;HL9;1;Produto com defeito
+2021-12-26;125;HL9;1;Troca Indisponível
+2021-12-26;308;HL166;1;Produto com defeito
+2021-12-26;236;HL1;1;Produto com defeito
+2021-12-26;302;HL215;1;Produto com defeito
+2021-12-26;200;HL166;1;Produto com defeito
+2021-12-26;163;HL94;1;Produto com defeito
+2021-12-26;307;HL215;1;Não informado
+2021-12-27;199;HL215;1;Produto com defeito
+2021-12-27;200;HL166;1;Produto com defeito
+2021-12-27;115;HL167;1;Produto com defeito
+2021-12-28;307;HL271;1;Arrependimento
+2021-12-28;252;HL1;1;Produto com defeito
+2021-12-28;211;HL225;1;Produto com defeito
+2021-12-28;306;HL224;1;Produto com defeito
+2021-12-28;205;HL164;1;Produto com defeito
+2021-12-28;213;HL1;1;Produto com defeito
+2021-12-28;284;HL249;1;Produto com defeito
+2021-12-28;308;HL292;1;Produto com defeito
+2021-12-29;254;HL171;1;Produto com defeito
+2021-12-29;289;HL215;1;Produto com defeito
+2021-12-30;95;HL2;1;Produto com defeito
+2021-12-30;309;HL222;1;Produto com defeito
+2021-12-30;307;HL227;1;Produto com defeito
+2021-12-30;306;HL91;1;Arrependimento
+2021-12-30;131;HL171;1;Produto com defeito
+2021-12-30;200;HL169;1;Produto com defeito
+2021-12-30;123;HL8;1;Produto com defeito
+2021-12-31;107;HL6;1;Produto com defeito
+2021-12-31;199;HL224;1;Arrependimento
+2021-12-31;246;HL226;1;Produto com defeito
+2021-12-31;92;HL164;1;Produto com defeito
+2021-12-31;232;HL267;1;Produto com defeito
+2021-12-31;166;HL166;1;Produto com defeito
+2022-01-01;33;HL215;1;Produto com defeito
+2022-01-01;193;HL164;1;Produto com defeito
+2022-01-01;156;HL166;2;Produto com defeito
+2022-01-01;306;HL215;1;Não informado
+2022-01-01;16;HL172;1;Produto com defeito
+2022-01-02;125;HL224;1;Produto com defeito
+2022-01-02;42;HL2;1;Produto com defeito
+2022-01-02;269;HL166;1;Produto com defeito
+2022-01-02;200;HL1;1;Produto com defeito
+2022-01-02;286;HL215;1;Produto com defeito
+2022-01-02;80;HL1;1;Produto com defeito
+2022-01-02;28;HL248;1;Produto com defeito
+2022-01-03;308;HL174;1;Produto com defeito
+2022-01-03;307;HL172;1;Produto com defeito
+2022-01-03;42;HL164;1;Produto com defeito
+2022-01-03;239;HL227;1;Produto com defeito
+2022-01-03;200;HL167;1;Produto com defeito
+2022-01-03;107;HL164;1;Produto com defeito
+2022-01-04;251;HL223;1;Produto com defeito
+2022-01-04;306;HL171;1;Arrependimento
+2022-01-05;51;HL166;1;Produto com defeito
+2022-01-05;199;HL223;1;Produto com defeito
+2022-01-05;76;HL1;1;Produto com defeito
+2022-01-05;277;HL167;1;Produto com defeito
+2022-01-06;199;HL166;1;Produto com defeito
+2022-01-06;308;HL173;1;Produto com defeito
+2022-01-06;184;HL6;1;Troca Indisponível
+2022-01-06;126;HL93;1;Produto com defeito
+2022-01-07;302;HL5;1;Produto com defeito
+2022-01-07;165;HL177;1;Produto com defeito
+2022-01-07;143;HL87;1;Produto com defeito
+2022-01-08;20;HL167;1;Produto com defeito
+2022-01-08;37;HL176;1;Produto com defeito
+2022-01-08;20;HL172;1;Produto com defeito
+2022-01-08;199;HL222;1;Produto com defeito
+2022-01-09;47;HL165;1;Produto com defeito
+2022-01-09;41;HL166;1;Produto com defeito
+2022-01-09;139;HL161;1;Produto com defeito
+2022-01-09;109;HL1;1;Produto com defeito
+2022-01-10;219;HL5;1;Produto com defeito
+2022-01-10;187;HL264;1;Produto com defeito
+2022-01-10;132;HL152;1;Troca Indisponível
+2022-01-10;39;HL223;1;Produto com defeito
+2022-01-10;209;HL225;1;Produto com defeito
+2022-01-10;48;HL2;1;Produto com defeito
+2022-01-10;200;HL222;1;Produto com defeito
+2022-01-11;264;HL171;1;Produto com defeito
+2022-01-11;264;HL275;1;Produto com defeito
+2022-01-11;199;HL216;1;Produto com defeito
+2022-01-11;28;HL224;1;Produto com defeito
+2022-01-11;307;HL5;1;Produto com defeito
+2022-01-11;181;HL165;1;Produto com defeito
+2022-01-11;191;HL2;1;Produto com defeito
+2022-01-11;41;HL164;1;Produto com defeito
+2022-01-11;139;HL171;1;Produto com defeito
+2022-01-11;310;HL263;1;Produto com defeito
+2022-01-11;94;HL153;1;Troca Indisponível
+2022-01-12;292;HL171;1;Produto com defeito
+2022-01-12;199;HL224;1;Produto com defeito
+2022-01-12;142;HL160;1;Produto com defeito
+2022-01-12;276;HL166;1;Produto com defeito
+2022-01-13;200;HL216;1;Produto com defeito
+2022-01-13;22;HL160;1;Produto com defeito
+2022-01-14;29;HL76;1;Produto com defeito
+2022-01-14;269;HL172;1;Produto com defeito
+2022-01-14;278;HL86;1;Produto com defeito
+2022-01-14;101;HL8;1;Produto com defeito
+2022-01-14;305;HL216;1;Produto com defeito
+2022-01-15;199;HL9;1;Arrependimento
+2022-01-15;306;HL228;1;Produto com defeito
+2022-01-15;253;HL164;1;Produto com defeito
+2022-01-15;307;HL225;1;Produto com defeito
+2022-01-15;221;HL217;1;Produto com defeito
+2022-01-15;38;HL77;1;Produto com defeito
+2022-01-15;306;HL175;1;Não informado
+2022-01-15;286;HL216;1;Produto com defeito
+2022-01-15;310;HL165;1;Produto com defeito
+2022-01-16;58;HL227;1;Produto com defeito
+2022-01-16;307;HL275;1;Não informado
+2022-01-17;157;HL1;1;Produto com defeito
+2022-01-17;283;HL5;1;Produto com defeito
+2022-01-17;308;HL215;1;Produto com defeito
+2022-01-17;164;HL164;1;Produto com defeito
+2022-01-17;183;HL216;1;Produto com defeito
+2022-01-17;7;HL171;1;Produto com defeito
+2022-01-17;92;HL164;1;Produto com defeito
+2022-01-17;73;HL172;1;Produto com defeito
+2022-01-18;307;HL215;1;Arrependimento
+2022-01-18;3;HL174;1;Produto com defeito
+2022-01-18;286;HL215;1;Produto com defeito
+2022-01-18;307;HL168;2;Arrependimento
+2022-01-18;275;HL5;1;Produto com defeito
+2022-01-18;308;HL158;1;Produto com defeito
+2022-01-18;199;HL161;1;Produto com defeito
+2022-01-18;45;HL164;1;Produto com defeito
+2022-01-18;306;HL216;1;Arrependimento
+2022-01-19;306;HL165;1;Arrependimento
+2022-01-19;307;HL1;1;Não informado
+2022-01-19;233;HL228;1;Produto com defeito
+2022-01-19;310;HL162;1;Troca Indisponível
+2022-01-19;111;HL226;1;Produto com defeito
+2022-01-20;250;HL8;1;Troca Indisponível
+2022-01-20;200;HL171;1;Produto com defeito
+2022-01-20;33;HL225;1;Produto com defeito
+2022-01-20;268;HL172;1;Produto com defeito
+2022-01-20;307;HL2;1;Produto com defeito
+2022-01-20;308;HL260;1;Produto com defeito
+2022-01-21;222;HL164;1;Produto com defeito
+2022-01-21;176;HL1;1;Produto com defeito
+2022-01-21;310;HL216;1;Produto com defeito
+2022-01-21;8;HL176;1;Produto com defeito
+2022-01-21;93;HL166;1;Produto com defeito
+2022-01-22;214;HL216;1;Produto com defeito
+2022-01-22;306;HL222;1;Produto com defeito
+2022-01-22;237;HL227;1;Produto com defeito
+2022-01-22;193;HL216;1;Produto com defeito
+2022-01-22;29;HL2;1;Produto com defeito
+2022-01-22;31;HL164;1;Produto com defeito
+2022-01-22;308;HL2;1;Produto com defeito
+2022-01-23;257;HL6;1;Produto com defeito
+2022-01-23;257;HL217;1;Produto com defeito
+2022-01-24;252;HL1;1;Produto com defeito
+2022-01-24;157;HL164;2;Produto com defeito
+2022-01-25;251;HL216;1;Produto com defeito
+2022-01-25;225;HL166;1;Produto com defeito
+2022-01-26;307;HL167;1;Produto com defeito
+2022-01-26;69;HL217;1;Produto com defeito
+2022-01-26;9;HL7;1;Produto com defeito
+2022-01-26;309;HL164;1;Produto com defeito
+2022-01-26;12;HL224;1;Produto com defeito
+2022-01-26;307;HL224;1;Arrependimento
+2022-01-27;306;HL159;1;Arrependimento
+2022-01-27;308;HL215;1;Produto com defeito
+2022-01-27;165;HL172;1;Produto com defeito
+2022-01-28;98;HL224;1;Produto com defeito
+2022-01-28;290;HL172;1;Produto com defeito
+2022-01-28;308;HL223;1;Produto com defeito
+2022-01-28;199;HL164;1;Arrependimento
+2022-01-28;159;HL76;1;Produto com defeito
+2022-01-28;79;HL86;1;Produto com defeito
+2022-01-28;307;HL174;1;Produto com defeito
+2022-01-28;308;HL168;1;Produto com defeito
+2022-01-28;287;HL217;1;Produto com defeito
+2022-01-29;309;HL293;1;Produto com defeito
+2022-01-29;165;HL215;1;Produto com defeito
+2022-01-29;310;HL224;1;Produto com defeito
+2022-01-29;134;HL223;1;Produto com defeito
+2022-01-29;220;HL154;1;Produto com defeito
+2022-01-29;79;HL217;1;Produto com defeito
+2022-01-30;308;HL215;1;Produto com defeito
+2022-01-30;306;HL152;1;Arrependimento
+2022-01-31;16;HL164;1;Produto com defeito
+2022-01-31;110;HL224;1;Produto com defeito
+2022-01-31;308;HL166;1;Produto com defeito
+2022-01-31;149;HL222;1;Produto com defeito
+2022-02-01;79;HL164;1;Produto com defeito
+2022-02-01;221;HL167;1;Produto com defeito
+2022-02-01;157;HL287;1;Produto com defeito
+2022-02-01;310;HL164;1;Produto com defeito
+2022-02-01;105;HL172;1;Produto com defeito
+2022-02-01;302;HL6;1;Produto com defeito
+2022-02-01;309;HL215;1;Produto com defeito
+2022-02-02;131;HL164;1;Produto com defeito
+2022-02-02;199;HL9;1;Produto com defeito
+2022-02-02;284;HL216;1;Produto com defeito
+2022-02-02;234;HL225;1;Produto com defeito
+2022-02-03;95;HL167;1;Produto com defeito
+2022-02-04;187;HL216;1;Produto com defeito
+2022-02-04;306;HL167;2;Produto com defeito
+2022-02-04;308;HL247;1;Produto com defeito
+2022-02-05;288;HL164;1;Produto com defeito
+2022-02-05;200;HL228;1;Produto com defeito
+2022-02-05;306;HL1;1;Produto com defeito
+2022-02-05;284;HL165;1;Produto com defeito
+2022-02-05;310;HL168;1;Troca Indisponível
+2022-02-05;77;HL222;1;Produto com defeito
+2022-02-05;73;HL165;1;Produto com defeito
+2022-02-05;200;HL291;1;Produto com defeito
+2022-02-06;118;HL6;1;Produto com defeito
+2022-02-06;234;HL172;1;Produto com defeito
+2022-02-06;295;HL166;1;Produto com defeito
+2022-02-06;309;HL215;1;Produto com defeito
+2022-02-06;109;HL217;1;Produto com defeito
+2022-02-06;310;HL226;1;Produto com defeito
+2022-02-06;199;HL222;1;Arrependimento
+2022-02-06;249;HL174;1;Produto com defeito
+2022-02-06;7;HL287;1;Produto com defeito
+2022-02-07;217;HL269;1;Produto com defeito
+2022-02-07;309;HL163;1;Produto com defeito
+2022-02-07;199;HL174;1;Arrependimento
+2022-02-07;293;HL226;1;Produto com defeito
+2022-02-07;141;HL249;1;Produto com defeito
+2022-02-07;304;HL159;1;Produto com defeito
+2022-02-07;301;HL215;1;Produto com defeito
+2022-02-07;306;HL165;1;Arrependimento
+2022-02-07;125;HL226;1;Produto com defeito
+2022-02-08;254;HL2;1;Produto com defeito
+2022-02-08;81;HL165;1;Produto com defeito
+2022-02-08;259;HL165;1;Produto com defeito
+2022-02-08;130;HL2;1;Produto com defeito
+2022-02-08;267;HL164;1;Produto com defeito
+2022-02-09;281;HL89;1;Produto com defeito
+2022-02-09;277;HL164;1;Produto com defeito
+2022-02-09;115;HL7;1;Produto com defeito
+2022-02-10;111;HL6;1;Produto com defeito
+2022-02-10;180;HL168;1;Produto com defeito
+2022-02-11;252;HL163;1;Troca Indisponível
+2022-02-11;132;HL164;1;Produto com defeito
+2022-02-11;94;HL165;2;Produto com defeito
+2022-02-11;234;HL216;1;Produto com defeito
+2022-02-11;278;HL75;1;Produto com defeito
+2022-02-11;29;HL226;1;Produto com defeito
+2022-02-12;306;HL164;1;Não informado
+2022-02-12;23;HL164;1;Produto com defeito
+2022-02-12;207;HL167;1;Produto com defeito
+2022-02-12;1;HL172;1;Produto com defeito
+2022-02-12;205;HL216;1;Produto com defeito
+2022-02-12;296;HL167;1;Produto com defeito
+2022-02-12;2;HL172;1;Produto com defeito
+2022-02-12;310;HL166;1;Produto com defeito
+2022-02-13;96;HL216;1;Produto com defeito
+2022-02-13;103;HL1;1;Produto com defeito
+2022-02-13;257;HL215;1;Produto com defeito
+2022-02-14;255;HL8;1;Troca Indisponível
+2022-02-14;159;HL217;1;Produto com defeito
+2022-02-14;211;HL222;1;Produto com defeito
+2022-02-14;73;HL78;1;Produto com defeito
+2022-02-14;199;HL164;1;Não informado
+2022-02-14;21;HL167;1;Produto com defeito
+2022-02-15;310;HL6;1;Troca Indisponível
+2022-02-15;45;HL223;1;Produto com defeito
+2022-02-15;200;HL228;1;Produto com defeito
+2022-02-15;200;HL164;1;Produto com defeito
+2022-02-15;105;HL293;1;Produto com defeito
+2022-02-16;200;HL225;1;Produto com defeito
+2022-02-17;267;HL1;1;Produto com defeito
+2022-02-17;116;HL217;1;Produto com defeito
+2022-02-17;308;HL223;1;Produto com defeito
+2022-02-17;60;HL1;1;Produto com defeito
+2022-02-17;310;HL292;2;Produto com defeito
+2022-02-17;263;HL172;1;Produto com defeito
+2022-02-17;307;HL177;1;Arrependimento
+2022-02-17;308;HL93;1;Produto com defeito
+2022-02-17;156;HL164;1;Produto com defeito
+2022-02-18;310;HL5;1;Produto com defeito
+2022-02-18;225;HL217;1;Produto com defeito
+2022-02-19;307;HL215;1;Produto com defeito
+2022-02-19;55;HL216;1;Produto com defeito
+2022-02-19;58;HL224;1;Produto com defeito
+2022-02-19;306;HL74;1;Produto com defeito
+2022-02-19;224;HL270;1;Produto com defeito
+2022-02-20;306;HL1;1;Não informado
+2022-02-20;199;HL86;1;Produto com defeito
+2022-02-20;179;HL260;1;Produto com defeito
+2022-02-20;309;HL215;1;Produto com defeito
+2022-02-20;288;HL8;1;Troca Indisponível
+2022-02-20;306;HL164;1;Arrependimento
+2022-02-20;309;HL217;1;Produto com defeito
+2022-02-20;306;HL172;1;Produto com defeito
+2022-02-21;134;HL164;1;Produto com defeito
+2022-02-21;305;HL164;1;Produto com defeito
+2022-02-21;307;HL267;1;Produto com defeito
+2022-02-22;25;HL6;1;Produto com defeito
+2022-02-22;253;HL9;1;Produto com defeito
+2022-02-22;46;HL172;1;Produto com defeito
+2022-02-22;200;HL166;1;Produto com defeito
+2022-02-22;62;HL171;1;Produto com defeito
+2022-02-23;307;HL7;1;Produto com defeito
+2022-02-23;264;HL152;1;Produto com defeito
+2022-02-23;207;HL162;1;Produto com defeito
+2022-02-23;307;HL226;1;Produto com defeito
+2022-02-23;72;HL162;1;Produto com defeito
+2022-02-23;307;HL164;1;Arrependimento
+2022-02-24;200;HL217;1;Produto com defeito
+2022-02-24;309;HL5;1;Produto com defeito
+2022-02-24;103;HL162;1;Produto com defeito
+2022-02-24;199;HL227;1;Produto com defeito
+2022-02-24;157;HL165;1;Produto com defeito
+2022-02-24;277;HL171;1;Produto com defeito
+2022-02-24;96;HL275;1;Produto com defeito
+2022-02-24;36;HL286;1;Produto com defeito
+2022-02-24;254;HL164;2;Produto com defeito
+2022-02-24;78;HL249;1;Produto com defeito
+2022-02-25;226;HL154;1;Produto com defeito
+2022-02-25;245;HL164;1;Produto com defeito
+2022-02-25;200;HL167;1;Produto com defeito
+2022-02-26;178;HL224;1;Produto com defeito
+2022-02-26;200;HL227;1;Produto com defeito
+2022-02-26;41;HL164;1;Produto com defeito
+2022-02-26;84;HL167;1;Produto com defeito
+2022-02-27;103;HL10;1;Troca Indisponível
+2022-02-27;254;HL215;1;Produto com defeito
+2022-02-27;255;HL225;1;Produto com defeito
+2022-02-27;308;HL216;1;Produto com defeito
+2022-02-27;159;HL164;1;Produto com defeito
+2022-02-27;199;HL215;1;Arrependimento
+2022-02-27;200;HL270;1;Produto com defeito
+2022-02-27;308;HL7;1;Produto com defeito
+2022-02-27;110;HL165;1;Produto com defeito
+2022-02-28;236;HL165;1;Produto com defeito
+2022-02-28;13;HL165;1;Produto com defeito
+2022-02-28;148;HL223;1;Produto com defeito
+2022-02-28;49;HL166;1;Produto com defeito
+2022-02-28;257;HL169;1;Troca Indisponível
+2022-02-28;307;HL226;1;Produto com defeito
+2022-03-01;169;HL164;2;Produto com defeito
+2022-03-01;52;HL222;1;Produto com defeito
+2022-03-01;306;HL282;1;Produto com defeito
+2022-03-01;200;HL2;1;Produto com defeito
+2022-03-01;3;HL216;1;Produto com defeito
+2022-03-01;185;HL5;1;Produto com defeito
+2022-03-01;108;HL167;1;Produto com defeito
+2022-03-01;75;HL217;1;Produto com defeito
+2022-03-01;78;HL269;1;Produto com defeito
+2022-03-01;156;HL172;1;Produto com defeito
+2022-03-02;276;HL172;1;Produto com defeito
+2022-03-02;306;HL215;1;Produto com defeito
+2022-03-02;24;HL217;1;Produto com defeito
+2022-03-02;3;HL161;1;Produto com defeito
+2022-03-03;214;HL2;1;Produto com defeito
+2022-03-03;199;HL227;1;Produto com defeito
+2022-03-03;306;HL215;1;Arrependimento
+2022-03-03;102;HL152;1;Produto com defeito
+2022-03-03;306;HL88;1;Arrependimento
+2022-03-03;200;HL6;1;Produto com defeito
+2022-03-04;252;HL166;1;Produto com defeito
+2022-03-04;241;HL9;1;Produto com defeito
+2022-03-04;62;HL215;1;Produto com defeito
+2022-03-04;15;HL215;1;Produto com defeito
+2022-03-04;2;HL174;1;Produto com defeito
+2022-03-05;199;HL74;1;Arrependimento
+2022-03-05;178;HL164;1;Produto com defeito
+2022-03-05;72;HL267;1;Produto com defeito
+2022-03-05;307;HL6;1;Produto com defeito
+2022-03-06;107;HL5;1;Produto com defeito
+2022-03-06;92;HL223;1;Produto com defeito
+2022-03-07;199;HL6;1;Arrependimento
+2022-03-07;200;HL178;1;Produto com defeito
+2022-03-07;307;HL222;1;Produto com defeito
+2022-03-07;200;HL262;1;Produto com defeito
+2022-03-07;308;HL163;1;Troca Indisponível
+2022-03-07;214;HL1;1;Produto com defeito
+2022-03-08;307;HL177;1;Produto com defeito
+2022-03-08;33;HL225;1;Produto com defeito
+2022-03-08;24;HL2;1;Produto com defeito
+2022-03-08;295;HL74;1;Produto com defeito
+2022-03-08;176;HL292;1;Produto com defeito
+2022-03-08;306;HL293;1;Produto com defeito
+2022-03-09;19;HL73;1;Produto com defeito
+2022-03-09;301;HL159;1;Produto com defeito
+2022-03-09;306;HL1;1;Não informado
+2022-03-09;200;HL215;1;Produto com defeito
+2022-03-09;297;HL224;1;Produto com defeito
+2022-03-09;28;HL223;1;Produto com defeito
+2022-03-10;310;HL165;1;Produto com defeito
+2022-03-10;200;HL215;1;Produto com defeito
+2022-03-11;200;HL165;1;Produto com defeito
+2022-03-11;295;HL172;1;Produto com defeito
+2022-03-11;84;HL1;1;Produto com defeito
+2022-03-11;85;HL228;1;Produto com defeito
+2022-03-12;200;HL164;1;Produto com defeito
+2022-03-12;14;HL9;1;Produto com defeito
+2022-03-12;230;HL264;1;Produto com defeito
+2022-03-12;307;HL166;1;Não informado
+2022-03-12;199;HL77;1;Produto com defeito
+2022-03-13;185;HL169;1;Troca Indisponível
+2022-03-13;308;HL228;1;Produto com defeito
+2022-03-13;22;HL167;2;Produto com defeito
+2022-03-13;200;HL73;1;Produto com defeito
+2022-03-13;178;HL76;1;Produto com defeito
+2022-03-14;5;HL9;1;Troca Indisponível
+2022-03-14;309;HL164;1;Produto com defeito
+2022-03-14;307;HL216;1;Produto com defeito
+2022-03-14;288;HL217;1;Produto com defeito
+2022-03-14;40;HL293;1;Produto com defeito
+2022-03-15;276;HL2;1;Produto com defeito
+2022-03-15;134;HL167;1;Produto com defeito
+2022-03-16;306;HL158;1;Produto com defeito
+2022-03-16;308;HL225;1;Produto com defeito
+2022-03-16;220;HL258;1;Produto com defeito
+2022-03-16;82;HL274;1;Produto com defeito
+2022-03-16;257;HL176;1;Troca Indisponível
+2022-03-16;206;HL224;1;Produto com defeito
+2022-03-17;199;HL167;1;Arrependimento
+2022-03-17;63;HL222;1;Produto com defeito
+2022-03-17;298;HL1;1;Produto com defeito
+2022-03-17;92;HL228;1;Produto com defeito
+2022-03-18;38;HL75;1;Produto com defeito
+2022-03-18;19;HL216;1;Produto com defeito
+2022-03-18;200;HL153;1;Produto com defeito
+2022-03-18;44;HL160;1;Produto com defeito
+2022-03-18;305;HL164;1;Produto com defeito
+2022-03-18;309;HL225;1;Produto com defeito
+2022-03-18;254;HL225;1;Produto com defeito
+2022-03-18;200;HL166;1;Produto com defeito
+2022-03-19;306;HL215;1;Arrependimento
+2022-03-19;306;HL164;1;Produto com defeito
+2022-03-19;303;HL165;1;Produto com defeito
+2022-03-19;3;HL162;1;Produto com defeito
+2022-03-20;9;HL167;1;Produto com defeito
+2022-03-20;104;HL177;1;Produto com defeito
+2022-03-20;207;HL292;1;Produto com defeito
+2022-03-20;221;HL77;1;Produto com defeito
+2022-03-20;113;HL154;1;Produto com defeito
+2022-03-20;285;HL225;1;Produto com defeito
+2022-03-21;150;HL227;1;Produto com defeito
+2022-03-21;172;HL291;1;Produto com defeito
+2022-03-21;307;HL225;1;Produto com defeito
+2022-03-21;306;HL215;1;Arrependimento
+2022-03-21;150;HL5;1;Produto com defeito
+2022-03-21;306;HL260;1;Arrependimento
+2022-03-21;304;HL268;1;Produto com defeito
+2022-03-22;288;HL165;1;Produto com defeito
+2022-03-22;306;HL225;1;Não informado
+2022-03-22;299;HL5;1;Produto com defeito
+2022-03-22;309;HL167;1;Produto com defeito
+2022-03-22;306;HL172;1;Produto com defeito
+2022-03-23;155;HL164;1;Produto com defeito
+2022-03-23;154;HL174;1;Produto com defeito
+2022-03-23;140;HL223;1;Produto com defeito
+2022-03-24;309;HL164;1;Produto com defeito
+2022-03-25;306;HL217;1;Arrependimento
+2022-03-25;83;HL1;1;Produto com defeito
+2022-03-25;47;HL217;1;Produto com defeito
+2022-03-25;308;HL164;1;Produto com defeito
+2022-03-25;92;HL225;1;Produto com defeito
+2022-03-26;148;HL5;1;Produto com defeito
+2022-03-26;200;HL170;1;Produto com defeito
+2022-03-26;141;HL6;1;Produto com defeito
+2022-03-26;121;HL172;1;Produto com defeito
+2022-03-27;284;HL166;1;Produto com defeito
+2022-03-27;310;HL6;1;Produto com defeito
+2022-03-27;22;HL164;1;Produto com defeito
+2022-03-27;268;HL159;1;Troca Indisponível
+2022-03-27;199;HL164;1;Produto com defeito
+2022-03-27;259;HL224;1;Produto com defeito
+2022-03-27;100;HL1;1;Produto com defeito
+2022-03-28;306;HL2;1;Arrependimento
+2022-03-28;154;HL1;1;Produto com defeito
+2022-03-28;308;HL224;1;Produto com defeito
+2022-03-28;15;HL78;1;Produto com defeito
+2022-03-28;282;HL6;1;Produto com defeito
+2022-03-28;195;HL160;1;Produto com defeito
+2022-03-28;310;HL163;1;Produto com defeito
+2022-03-28;199;HL6;1;Produto com defeito
+2022-03-29;199;HL5;1;Não informado
+2022-03-29;146;HL162;1;Produto com defeito
+2022-03-29;306;HL215;1;Arrependimento
+2022-03-29;283;HL162;1;Produto com defeito
+2022-03-29;62;HL167;1;Produto com defeito
+2022-03-29;265;HL5;1;Produto com defeito
+2022-03-29;17;HL1;1;Produto com defeito
+2022-03-29;199;HL283;1;Produto com defeito
+2022-03-30;308;HL166;1;Produto com defeito
+2022-03-30;199;HL253;1;Arrependimento
+2022-03-30;309;HL172;1;Produto com defeito
+2022-03-30;114;HL224;1;Produto com defeito
+2022-03-30;307;HL216;1;Arrependimento
+2022-03-31;204;HL94;1;Produto com defeito
+2022-03-31;307;HL169;1;Produto com defeito
+2022-03-31;291;HL215;1;Produto com defeito
+2022-03-31;150;HL167;1;Produto com defeito
+2022-03-31;207;HL169;1;Produto com defeito
+2022-04-01;301;HL2;1;Produto com defeito
+2022-04-01;308;HL74;1;Produto com defeito
+2022-04-01;121;HL267;1;Produto com defeito
+2022-04-01;177;HL8;1;Produto com defeito
+2022-04-01;308;HL215;1;Produto com defeito
+2022-04-01;307;HL92;1;Produto com defeito
+2022-04-02;22;HL5;1;Produto com defeito
+2022-04-02;306;HL167;1;Arrependimento
+2022-04-03;308;HL164;1;Produto com defeito
+2022-04-03;199;HL178;1;Produto com defeito
+2022-04-03;199;HL173;1;Não informado
+2022-04-03;8;HL10;1;Produto com defeito
+2022-04-03;307;HL223;1;Produto com defeito
+2022-04-03;49;HL251;1;Produto com defeito
+2022-04-03;309;HL167;1;Produto com defeito
+2022-04-03;276;HL222;1;Produto com defeito
+2022-04-04;173;HL167;1;Produto com defeito
+2022-04-04;250;HL225;1;Produto com defeito
+2022-04-04;245;HL248;1;Produto com defeito
+2022-04-04;150;HL77;1;Produto com defeito
+2022-04-04;17;HL164;1;Produto com defeito
+2022-04-04;200;HL164;1;Produto com defeito
+2022-04-05;185;HL167;1;Produto com defeito
+2022-04-05;129;HL226;1;Produto com defeito
+2022-04-05;39;HL226;1;Produto com defeito
+2022-04-06;200;HL5;1;Produto com defeito
+2022-04-06;301;HL75;1;Produto com defeito
+2022-04-06;111;HL164;1;Produto com defeito
+2022-04-06;189;HL1;1;Produto com defeito
+2022-04-06;205;HL6;2;Produto com defeito
+2022-04-06;291;HL261;1;Produto com defeito
+2022-04-06;199;HL292;1;Não informado
+2022-04-07;308;HL1;1;Produto com defeito
+2022-04-07;300;HL167;1;Produto com defeito
+2022-04-07;159;HL215;1;Produto com defeito
+2022-04-07;148;HL217;1;Produto com defeito
+2022-04-07;68;HL264;1;Produto com defeito
+2022-04-08;303;HL163;1;Troca Indisponível
+2022-04-08;220;HL227;1;Produto com defeito
+2022-04-08;301;HL2;1;Produto com defeito
+2022-04-08;281;HL175;1;Produto com defeito
+2022-04-08;306;HL2;1;Não informado
+2022-04-09;121;HL5;1;Produto com defeito
+2022-04-09;306;HL226;1;Produto com defeito
+2022-04-10;300;HL215;1;Produto com defeito
+2022-04-10;309;HL5;1;Produto com defeito
+2022-04-10;195;HL158;1;Produto com defeito
+2022-04-10;244;HL247;1;Produto com defeito
+2022-04-10;308;HL171;1;Produto com defeito
+2022-04-10;162;HL92;1;Produto com defeito
+2022-04-10;270;HL253;1;Produto com defeito
+2022-04-11;308;HL224;1;Produto com defeito
+2022-04-11;200;HL223;1;Produto com defeito
+2022-04-11;309;HL275;1;Produto com defeito
+2022-04-11;239;HL166;1;Produto com defeito
+2022-04-11;227;HL167;1;Produto com defeito
+2022-04-11;307;HL88;1;Arrependimento
+2022-04-11;264;HL171;1;Produto com defeito
+2022-04-11;207;HL250;1;Produto com defeito
+2022-04-12;200;HL217;1;Produto com defeito
+2022-04-12;200;HL263;1;Produto com defeito
+2022-04-12;310;HL262;1;Produto com defeito
+2022-04-12;302;HL164;1;Produto com defeito
+2022-04-12;206;HL165;1;Produto com defeito
+2022-04-12;80;HL293;1;Produto com defeito
+2022-04-13;306;HL164;1;Produto com defeito
+2022-04-13;124;HL165;2;Produto com defeito
+2022-04-13;307;HL170;1;Produto com defeito
+2022-04-14;309;HL277;1;Produto com defeito
+2022-04-14;199;HL167;1;Arrependimento
+2022-04-14;192;HL2;1;Produto com defeito
+2022-04-14;39;HL216;1;Produto com defeito
+2022-04-14;307;HL277;1;Produto com defeito
+2022-04-15;310;HL177;1;Produto com defeito
+2022-04-15;140;HL164;1;Produto com defeito
+2022-04-15;200;HL175;1;Produto com defeito
+2022-04-15;215;HL176;1;Troca Indisponível
+2022-04-15;307;HL167;1;Produto com defeito
+2022-04-16;277;HL166;1;Produto com defeito
+2022-04-16;103;HL224;1;Produto com defeito
+2022-04-16;199;HL268;1;Produto com defeito
+2022-04-16;12;HL216;1;Produto com defeito
+2022-04-17;307;HL226;1;Não informado
+2022-04-17;308;HL159;1;Produto com defeito
+2022-04-17;199;HL292;1;Produto com defeito
+2022-04-17;199;HL252;1;Produto com defeito
+2022-04-17;192;HL254;1;Produto com defeito
+2022-04-18;277;HL92;1;Produto com defeito
+2022-04-18;83;HL248;1;Produto com defeito
+2022-04-18;200;HL153;1;Troca Indisponível
+2022-04-18;306;HL166;1;Arrependimento
+2022-04-18;237;HL166;1;Produto com defeito
+2022-04-18;204;HL264;1;Produto com defeito
+2022-04-19;30;HL1;1;Produto com defeito
+2022-04-19;103;HL165;1;Produto com defeito
+2022-04-19;110;HL215;1;Produto com defeito
+2022-04-19;267;HL173;1;Produto com defeito
+2022-04-19;306;HL217;1;Produto com defeito
+2022-04-19;181;HL174;1;Produto com defeito
+2022-04-20;309;HL270;1;Produto com defeito
+2022-04-20;254;HL169;1;Produto com defeito
+2022-04-21;298;HL10;1;Produto com defeito
+2022-04-21;159;HL164;1;Produto com defeito
+2022-04-21;7;HL92;1;Produto com defeito
+2022-04-22;51;HL215;1;Produto com defeito
+2022-04-22;172;HL228;1;Produto com defeito
+2022-04-22;309;HL217;1;Produto com defeito
+2022-04-22;14;HL271;1;Produto com defeito
+2022-04-23;140;HL171;1;Produto com defeito
+2022-04-23;309;HL2;1;Produto com defeito
+2022-04-23;200;HL7;1;Troca Indisponível
+2022-04-23;243;HL167;1;Produto com defeito
+2022-04-23;142;HL5;1;Produto com defeito
+2022-04-23;43;HL154;1;Produto com defeito
+2022-04-23;288;HL216;1;Produto com defeito
+2022-04-23;296;HL225;1;Produto com defeito
+2022-04-23;307;HL167;1;Produto com defeito
+2022-04-24;269;HL5;1;Produto com defeito
+2022-04-24;213;HL164;1;Produto com defeito
+2022-04-24;310;HL2;1;Produto com defeito
+2022-04-24;127;HL73;1;Produto com defeito
+2022-04-24;200;HL164;1;Produto com defeito
+2022-04-24;308;HL276;1;Produto com defeito
+2022-04-25;306;HL172;1;Produto com defeito
+2022-04-25;153;HL153;1;Produto com defeito
+2022-04-25;62;HL164;1;Produto com defeito
+2022-04-25;310;HL171;1;Produto com defeito
+2022-04-25;34;HL217;1;Produto com defeito
+2022-04-25;212;HL166;1;Produto com defeito
+2022-04-25;307;HL225;1;Produto com defeito
+2022-04-25;299;HL168;1;Troca Indisponível
+2022-04-26;308;HL5;1;Produto com defeito
+2022-04-26;105;HL167;1;Produto com defeito
+2022-04-26;230;HL165;1;Produto com defeito
+2022-04-26;200;HL167;1;Produto com defeito
+2022-04-26;179;HL167;1;Produto com defeito
+2022-04-26;190;HL175;1;Troca Indisponível
+2022-04-27;89;HL167;1;Produto com defeito
+2022-04-27;308;HL216;1;Produto com defeito
+2022-04-27;108;HL2;1;Produto com defeito
+2022-04-27;200;HL216;1;Produto com defeito
+2022-04-27;309;HL2;1;Produto com defeito
+2022-04-27;306;HL1;1;Não informado
+2022-04-27;296;HL267;1;Produto com defeito
+2022-04-28;310;HL76;1;Produto com defeito
+2022-04-28;284;HL215;1;Produto com defeito
+2022-04-28;275;HL89;1;Produto com defeito
+2022-04-28;244;HL222;1;Produto com defeito
+2022-04-28;211;HL2;1;Produto com defeito
+2022-04-28;310;HL167;1;Produto com defeito
+2022-04-28;89;HL215;1;Produto com defeito
+2022-04-29;96;HL228;1;Produto com defeito
+2022-04-29;71;HL161;1;Produto com defeito
+2022-04-29;308;HL177;1;Produto com defeito
+2022-04-29;192;HL215;1;Produto com defeito
+2022-04-29;176;HL76;1;Produto com defeito
+2022-04-30;199;HL167;1;Arrependimento
+2022-04-30;114;HL2;1;Produto com defeito
+2022-04-30;144;HL165;1;Produto com defeito
+2022-04-30;276;HL176;1;Produto com defeito
+2022-04-30;162;HL268;1;Produto com defeito
+2022-04-30;159;HL167;1;Produto com defeito
+2022-05-01;11;HL172;1;Produto com defeito
+2022-05-01;254;HL2;1;Produto com defeito
+2022-05-01;33;HL77;1;Produto com defeito
+2022-05-01;251;HL166;1;Produto com defeito
+2022-05-02;149;HL1;1;Produto com defeito
+2022-05-02;35;HL164;1;Produto com defeito
+2022-05-02;302;HL215;1;Produto com defeito
+2022-05-02;8;HL167;1;Produto com defeito
+2022-05-03;302;HL216;1;Produto com defeito
+2022-05-04;306;HL293;1;Produto com defeito
+2022-05-04;307;HL163;1;Arrependimento
+2022-05-04;178;HL226;1;Produto com defeito
+2022-05-04;86;HL225;1;Produto com defeito
+2022-05-04;308;HL258;1;Produto com defeito
+2022-05-05;200;HL170;1;Produto com defeito
+2022-05-05;254;HL167;1;Produto com defeito
+2022-05-05;200;HL170;1;Produto com defeito
+2022-05-05;48;HL6;1;Troca Indisponível
+2022-05-05;8;HL228;1;Produto com defeito
+2022-05-05;307;HL167;1;Não informado
+2022-05-05;199;HL174;1;Não informado
+2022-05-06;53;HL2;1;Produto com defeito
+2022-05-06;309;HL164;1;Produto com defeito
+2022-05-06;102;HL154;1;Produto com defeito
+2022-05-06;2;HL172;1;Produto com defeito
+2022-05-06;188;HL5;1;Produto com defeito
+2022-05-06;278;HL215;1;Produto com defeito
+2022-05-06;308;HL215;1;Produto com defeito
+2022-05-06;141;HL167;1;Produto com defeito
+2022-05-07;199;HL265;1;Produto com defeito
+2022-05-07;202;HL225;1;Produto com defeito
+2022-05-07;147;HL1;1;Produto com defeito
+2022-05-08;98;HL163;1;Produto com defeito
+2022-05-08;57;HL224;1;Produto com defeito
+2022-05-08;151;HL6;1;Produto com defeito
+2022-05-08;268;HL222;1;Produto com defeito
+2022-05-09;2;HL171;1;Produto com defeito
+2022-05-09;74;HL5;1;Produto com defeito
+2022-05-09;10;HL217;1;Produto com defeito
+2022-05-09;200;HL78;1;Produto com defeito
+2022-05-09;110;HL167;1;Produto com defeito
+2022-05-09;37;HL215;1;Produto com defeito
+2022-05-09;200;HL224;1;Produto com defeito
+2022-05-10;287;HL265;1;Produto com defeito
+2022-05-10;307;HL93;1;Não informado
+2022-05-10;207;HL167;1;Produto com defeito
+2022-05-10;99;HL165;1;Produto com defeito
+2022-05-10;84;HL224;1;Produto com defeito
+2022-05-10;199;HL2;1;Arrependimento
+2022-05-11;48;HL6;1;Produto com defeito
+2022-05-11;182;HL167;1;Produto com defeito
+2022-05-11;117;HL223;1;Produto com defeito
+2022-05-11;305;HL228;1;Produto com defeito
+2022-05-12;200;HL1;1;Produto com defeito
+2022-05-12;200;HL8;1;Produto com defeito
+2022-05-12;97;HL166;1;Produto com defeito
+2022-05-12;212;HL293;1;Produto com defeito
+2022-05-12;199;HL77;1;Produto com defeito
+2022-05-12;272;HL291;1;Produto com defeito
+2022-05-13;309;HL5;1;Produto com defeito
+2022-05-14;308;HL172;1;Produto com defeito
+2022-05-14;152;HL216;1;Produto com defeito
+2022-05-14;310;HL170;1;Produto com defeito
+2022-05-14;89;HL172;1;Produto com defeito
+2022-05-14;264;HL223;1;Produto com defeito
+2022-05-14;199;HL267;1;Não informado
+2022-05-14;200;HL164;1;Produto com defeito
+2022-05-15;199;HL167;1;Produto com defeito
+2022-05-15;286;HL176;1;Produto com defeito
+2022-05-15;309;HL1;1;Produto com defeito
+2022-05-15;237;HL10;1;Troca Indisponível
+2022-05-15;306;HL172;1;Não informado
+2022-05-15;200;HL1;1;Produto com defeito
+2022-05-16;200;HL256;1;Produto com defeito
+2022-05-16;233;HL167;1;Produto com defeito
+2022-05-16;49;HL224;1;Produto com defeito
+2022-05-16;227;HL154;1;Produto com defeito
+2022-05-16;240;HL1;1;Produto com defeito
+2022-05-16;199;HL174;1;Não informado
+2022-05-16;283;HL175;1;Produto com defeito
+2022-05-17;308;HL165;1;Produto com defeito
+2022-05-17;32;HL164;1;Produto com defeito
+2022-05-17;20;HL5;1;Produto com defeito
+2022-05-17;252;HL255;1;Produto com defeito
+2022-05-17;41;HL1;1;Produto com defeito
+2022-05-18;301;HL223;1;Produto com defeito
+2022-05-19;243;HL167;1;Produto com defeito
+2022-05-19;127;HL6;1;Produto com defeito
+2022-05-19;268;HL1;1;Produto com defeito
+2022-05-19;84;HL95;1;Produto com defeito
+2022-05-20;310;HL158;1;Produto com defeito
+2022-05-20;256;HL260;1;Produto com defeito
+2022-05-20;96;HL269;1;Produto com defeito
+2022-05-20;295;HL7;1;Produto com defeito
+2022-05-20;63;HL263;1;Produto com defeito
+2022-05-21;3;HL76;1;Produto com defeito
+2022-05-21;293;HL222;1;Produto com defeito
+2022-05-21;293;HL7;1;Produto com defeito
+2022-05-21;92;HL224;1;Produto com defeito
+2022-05-21;164;HL1;1;Produto com defeito
+2022-05-21;308;HL174;1;Produto com defeito
+2022-05-22;261;HL1;1;Produto com defeito
+2022-05-22;306;HL165;1;Arrependimento
+2022-05-22;309;HL174;1;Produto com defeito
+2022-05-22;308;HL2;1;Produto com defeito
+2022-05-23;199;HL74;1;Não informado
+2022-05-23;117;HL293;1;Produto com defeito
+2022-05-23;296;HL261;1;Produto com defeito
+2022-05-23;308;HL264;1;Produto com defeito
+2022-05-23;153;HL259;1;Produto com defeito
+2022-05-24;308;HL152;1;Troca Indisponível
+2022-05-24;192;HL78;1;Produto com defeito
+2022-05-24;307;HL215;1;Produto com defeito
+2022-05-24;139;HL260;1;Produto com defeito
+2022-05-24;39;HL223;1;Produto com defeito
+2022-05-24;81;HL249;1;Produto com defeito
+2022-05-24;309;HL266;1;Produto com defeito
+2022-05-25;225;HL161;1;Produto com defeito
+2022-05-25;309;HL154;1;Produto com defeito
+2022-05-25;13;HL2;1;Produto com defeito
+2022-05-25;200;HL6;1;Troca Indisponível
+2022-05-25;306;HL175;1;Não informado
+2022-05-25;238;HL251;1;Produto com defeito
+2022-05-26;53;HL215;1;Produto com defeito
+2022-05-26;307;HL215;1;Arrependimento
+2022-05-26;309;HL165;1;Produto com defeito
+2022-05-26;50;HL226;1;Produto com defeito
+2022-05-26;276;HL166;1;Produto com defeito
+2022-05-26;308;HL5;1;Produto com defeito
+2022-05-26;200;HL10;1;Troca Indisponível
+2022-05-26;64;HL217;1;Produto com defeito
+2022-05-27;135;HL1;1;Produto com defeito
+2022-05-27;290;HL215;1;Produto com defeito
+2022-05-27;38;HL225;1;Produto com defeito
+2022-05-27;108;HL8;1;Produto com defeito
+2022-05-28;260;HL7;1;Troca Indisponível
+2022-05-28;212;HL164;1;Produto com defeito
+2022-05-28;199;HL86;1;Produto com defeito
+2022-05-28;306;HL227;1;Arrependimento
+2022-05-28;308;HL5;1;Produto com defeito
+2022-05-28;121;HL169;1;Produto com defeito
+2022-05-28;310;HL216;1;Produto com defeito
+2022-05-29;199;HL78;1;Produto com defeito
+2022-05-29;309;HL1;1;Produto com defeito
+2022-05-29;307;HL1;1;Não informado
+2022-05-29;217;HL5;1;Produto com defeito
+2022-05-29;114;HL90;1;Produto com defeito
+2022-05-29;160;HL152;1;Produto com defeito
+2022-05-29;308;HL165;1;Produto com defeito
+2022-05-29;110;HL172;1;Produto com defeito
+2022-05-30;23;HL166;1;Produto com defeito
+2022-05-30;199;HL216;1;Produto com defeito
+2022-05-30;199;HL225;1;Produto com defeito
+2022-05-30;108;HL165;1;Produto com defeito
+2022-05-30;199;HL167;1;Arrependimento
+2022-05-30;269;HL292;1;Produto com defeito
+2022-05-30;4;HL5;1;Produto com defeito
+2022-05-30;218;HL167;1;Produto com defeito
+2022-05-30;308;HL224;1;Produto com defeito
+2022-05-30;166;HL269;1;Produto com defeito
+2022-05-30;196;HL217;1;Produto com defeito
+2022-05-31;31;HL215;1;Produto com defeito
+2022-05-31;80;HL77;1;Produto com defeito
+2022-05-31;199;HL222;1;Não informado
+2022-05-31;236;HL223;1;Produto com defeito
+2022-05-31;128;HL255;1;Produto com defeito
+2022-05-31;199;HL171;1;Arrependimento
+2022-05-31;199;HL271;1;Arrependimento
+2022-05-31;155;HL164;1;Produto com defeito
+2022-06-01;310;HL269;1;Produto com defeito
+2022-06-01;199;HL76;1;Arrependimento
+2022-06-01;310;HL265;1;Produto com defeito
+2022-06-02;308;HL168;1;Produto com defeito
+2022-06-02;194;HL164;1;Produto com defeito
+2022-06-03;310;HL225;1;Produto com defeito
+2022-06-03;294;HL164;1;Produto com defeito
+2022-06-03;151;HL225;1;Produto com defeito
+2022-06-03;200;HL165;1;Produto com defeito
+2022-06-03;306;HL166;1;Produto com defeito
+2022-06-03;308;HL175;1;Produto com defeito
+2022-06-03;307;HL224;1;Arrependimento
+2022-06-04;310;HL154;1;Produto com defeito
+2022-06-05;200;HL5;1;Produto com defeito
+2022-06-05;200;HL164;1;Produto com defeito
+2022-06-05;234;HL1;1;Produto com defeito
+2022-06-06;307;HL163;1;Arrependimento
+2022-06-06;255;HL172;1;Produto com defeito
+2022-06-06;219;HL6;1;Produto com defeito
+2022-06-06;86;HL217;1;Produto com defeito
+2022-06-06;253;HL77;1;Produto com defeito
+2022-06-06;307;HL223;1;Produto com defeito
+2022-06-07;310;HL152;1;Produto com defeito
+2022-06-07;174;HL226;1;Produto com defeito
+2022-06-07;184;HL261;1;Produto com defeito
+2022-06-07;157;HL73;1;Produto com defeito
+2022-06-07;288;HL153;1;Produto com defeito
+2022-06-07;303;HL165;1;Produto com defeito
+2022-06-07;308;HL172;1;Produto com defeito
+2022-06-07;299;HL10;1;Produto com defeito
+2022-06-07;306;HL73;1;Arrependimento
+2022-06-07;251;HL153;1;Produto com defeito
+2022-06-07;307;HL224;1;Arrependimento
+2022-06-07;199;HL225;1;Produto com defeito
+2022-06-08;105;HL75;1;Produto com defeito
+2022-06-08;298;HL224;1;Produto com defeito
+2022-06-08;307;HL77;1;Produto com defeito
+2022-06-08;99;HL250;1;Produto com defeito
+2022-06-08;288;HL292;1;Produto com defeito
+2022-06-08;111;HL164;1;Produto com defeito
+2022-06-08;308;HL172;1;Produto com defeito
+2022-06-09;308;HL165;1;Produto com defeito
+2022-06-09;67;HL222;1;Produto com defeito
+2022-06-09;134;HL215;1;Produto com defeito
+2022-06-09;200;HL215;1;Produto com defeito
+2022-06-09;54;HL94;1;Produto com defeito
+2022-06-09;276;HL158;1;Produto com defeito
+2022-06-10;199;HL154;1;Não informado
+2022-06-10;307;HL164;1;Arrependimento
+2022-06-10;15;HL268;1;Produto com defeito
+2022-06-10;170;HL164;1;Produto com defeito
+2022-06-11;178;HL166;1;Produto com defeito
+2022-06-11;306;HL6;1;Não informado
+2022-06-11;96;HL172;1;Produto com defeito
+2022-06-11;305;HL172;1;Produto com defeito
+2022-06-11;308;HL216;1;Produto com defeito
+2022-06-11;309;HL271;1;Produto com defeito
+2022-06-12;200;HL165;1;Produto com defeito
+2022-06-12;147;HL1;1;Produto com defeito
+2022-06-12;199;HL216;1;Produto com defeito
+2022-06-12;308;HL224;1;Produto com defeito
+2022-06-12;7;HL164;1;Produto com defeito
+2022-06-13;307;HL5;1;Arrependimento
+2022-06-13;71;HL163;1;Produto com defeito
+2022-06-13;103;HL268;1;Produto com defeito
+2022-06-13;306;HL1;1;Arrependimento
+2022-06-13;173;HL2;1;Produto com defeito
+2022-06-14;12;HL224;1;Produto com defeito
+2022-06-14;1;HL152;1;Produto com defeito
+2022-06-14;190;HL8;1;Produto com defeito
+2022-06-14;44;HL215;1;Produto com defeito
+2022-06-14;307;HL178;1;Arrependimento
+2022-06-14;194;HL1;1;Produto com defeito
+2022-06-14;199;HL164;1;Não informado
+2022-06-15;306;HL6;1;Não informado
+2022-06-15;167;HL5;1;Produto com defeito
+2022-06-15;200;HL216;1;Produto com defeito
+2022-06-15;13;HL162;1;Produto com defeito
+2022-06-15;307;HL164;1;Arrependimento
+2022-06-15;28;HL172;1;Produto com defeito
+2022-06-15;132;HL167;1;Produto com defeito
+2022-06-15;190;HL165;1;Produto com defeito
+2022-06-16;264;HL177;1;Produto com defeito
+2022-06-16;300;HL222;1;Produto com defeito
+2022-06-16;18;HL167;1;Produto com defeito
+2022-06-16;202;HL166;1;Produto com defeito
+2022-06-16;100;HL154;1;Produto com defeito
+2022-06-17;92;HL74;1;Produto com defeito
+2022-06-17;45;HL168;1;Produto com defeito
+2022-06-17;291;HL176;1;Produto com defeito
+2022-06-17;309;HL215;1;Produto com defeito
+2022-06-17;310;HL222;1;Produto com defeito
+2022-06-17;261;HL73;1;Produto com defeito
+2022-06-17;267;HL284;1;Produto com defeito
+2022-06-18;308;HL222;1;Produto com defeito
+2022-06-19;301;HL75;1;Produto com defeito
+2022-06-19;300;HL152;1;Produto com defeito
+2022-06-19;200;HL174;1;Produto com defeito
+2022-06-19;214;HL250;1;Produto com defeito
+2022-06-20;307;HL215;1;Produto com defeito
+2022-06-20;310;HL166;1;Produto com defeito
+2022-06-20;113;HL273;1;Produto com defeito
+2022-06-20;196;HL78;1;Produto com defeito
+2022-06-21;310;HL5;1;Produto com defeito
+2022-06-21;282;HL280;1;Produto com defeito
+2022-06-21;307;HL169;1;Produto com defeito
+2022-06-21;200;HL223;1;Produto com defeito
+2022-06-21;275;HL152;1;Produto com defeito
+2022-06-21;291;HL164;1;Produto com defeito
+2022-06-21;146;HL5;1;Produto com defeito
+2022-06-21;140;HL164;1;Produto com defeito
+2022-06-22;1;HL9;1;Produto com defeito
+2022-06-22;248;HL172;1;Produto com defeito
+2022-06-22;19;HL216;1;Produto com defeito
+2022-06-22;29;HL5;1;Produto com defeito
+2022-06-22;275;HL163;1;Produto com defeito
+2022-06-22;200;HL175;1;Produto com defeito
+2022-06-22;306;HL227;1;Arrependimento
+2022-06-22;309;HL164;1;Produto com defeito
+2022-06-22;155;HL271;1;Produto com defeito
+2022-06-23;308;HL215;1;Produto com defeito
+2022-06-23;296;HL226;1;Produto com defeito
+2022-06-23;103;HL249;1;Produto com defeito
+2022-06-23;308;HL250;1;Produto com defeito
+2022-06-24;200;HL166;1;Produto com defeito
+2022-06-24;2;HL167;1;Produto com defeito
+2022-06-24;307;HL172;1;Arrependimento
+2022-06-24;211;HL174;1;Produto com defeito
+2022-06-24;199;HL161;1;Produto com defeito
+2022-06-24;38;HL268;1;Produto com defeito
+2022-06-25;33;HL6;1;Produto com defeito
+2022-06-25;135;HL6;1;Produto com defeito
+2022-06-25;160;HL164;1;Produto com defeito
+2022-06-25;261;HL216;1;Produto com defeito
+2022-06-25;200;HL164;1;Produto com defeito
+2022-06-25;152;HL165;1;Produto com defeito
+2022-06-25;254;HL171;1;Produto com defeito
+2022-06-25;20;HL226;1;Produto com defeito
+2022-06-26;306;HL159;1;Produto com defeito
+2022-06-26;291;HL164;1;Produto com defeito
+2022-06-26;234;HL216;1;Produto com defeito
+2022-06-26;200;HL225;1;Produto com defeito
+2022-06-27;147;HL165;1;Produto com defeito
+2022-06-27;227;HL224;1;Produto com defeito
+2022-06-27;306;HL5;1;Arrependimento
+2022-06-28;185;HL1;1;Produto com defeito
+2022-06-28;200;HL167;1;Produto com defeito
+2022-06-28;308;HL274;1;Produto com defeito
+2022-06-28;13;HL94;1;Produto com defeito
+2022-06-28;270;HL215;2;Produto com defeito
+2022-06-28;219;HL262;1;Produto com defeito
+2022-06-28;199;HL278;1;Arrependimento
+2022-06-28;200;HL91;1;Produto com defeito
+2022-06-28;255;HL164;1;Produto com defeito
+2022-06-28;18;HL174;1;Produto com defeito
+2022-06-29;195;HL75;1;Produto com defeito
+2022-06-29;142;HL274;1;Produto com defeito
+2022-06-29;276;HL164;1;Produto com defeito
+2022-06-29;200;HL166;1;Produto com defeito
+2022-06-29;306;HL228;1;Produto com defeito
+2022-06-29;199;HL164;1;Arrependimento
+2022-06-30;68;HL178;1;Produto com defeito
+2022-06-30;112;HL164;1;Produto com defeito
+2022-06-30;249;HL164;1;Produto com defeito
+2022-06-30;246;HL6;1;Produto com defeito
+2022-06-30;295;HL164;1;Produto com defeito
