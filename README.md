@@ -10,5 +10,10 @@ Etapas:
 - Transformar os dados em DataFrames;
 - Realizar todo o processo de transformação, limpeza e ajustes nos dados;
 - Consolidar tabelas;
-- Salvar os dados.
+- Exportar para o PostgreSQL.
+
+### Stacks:
+
+- Python (Pandas, sqlalchemy, doc auxiliar com funções);
+- SQL.
 
